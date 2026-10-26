@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evaluación documental comité MoE",
+  "type": "object",
+  "required": ["project_id", "mode", "sources", "reviews", "objections", "decision", "limitations"],
+  "properties": {
+    "project_id": {"type": "string", "minLength": 1},
+    "mode": {"enum": ["completo", "rapido"]},
+    "sources": {"type": "array", "items": {"type": "object", "required": ["id", "path"], "properties": {"id": {"type": "string"}, "path": {"type": "string"}, "sha256": {"type": "string"}}, "additionalProperties": true}},
+    "reviews": {"type": "array", "minItems": 6, "maxItems": 6, "items": {"type": "object", "required": ["role", "initial_stance", "final_position", "score", "confidence", "rationale"], "properties": {"role": {"enum": ["CEO", "CTO", "CTIO", "CISO", "CHRO", "CFO"]}, "initial_stance": {"type": "string"}, "final_position": {"enum": ["APOYA", "APOYA_CON_CONDICIONES", "OBJETA", "RECHAZA", "NO_EVALUABLE"]}, "score": {"oneOf": [{"type": "integer", "minimum": 0, "maximum": 5}, {"type": "null"}]}, "confidence": {"enum": ["alta", "media", "baja"]}, "rationale": {"type": "string"}, "evidence_ids": {"type": "array", "items": {"type": "string"}}}, "additionalProperties": true}},
+    "objections": {"type": "array", "items": {"type": "object", "required": ["id", "role", "severity", "claim", "status"], "properties": {"id": {"type": "string"}, "role": {"type": "string"}, "severity": {"enum": ["critica", "alta", "media", "baja"]}, "claim": {"type": "string"}, "status": {"enum": ["ABIERTA", "RESPONDIDA_NO_VERIFICADA", "MITIGADA_VERIFICADA", "RIESGO_ACEPTADO_PROPUESTO", "NO_RESUELTA"]}, "evidence_ids": {"type": "array", "items": {"type": "string"}}, "mitigation": {"type": "string"}}, "additionalProperties": true}},
+    "decision": {"enum": ["APROBADO", "APROBADO_CON_CONDICIONES", "REFORMULAR", "RECHAZADO", "INFORMACION_INSUFICIENTE"]},
+    "weighted_score": {"type": ["number", "null"], "minimum": 0, "maximum": 5},
+    "scoring_coverage_pct": {"type": "number", "minimum": 0, "maximum": 100},
+    "limitations": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,5 @@
+---
+description: Reglas de ejecución del comité MoE al evaluar proyectos de IA
+alwaysApply: false
+---
+Cuando el usuario invoque el comité MoE, leer `AGENTS.md`, `protocols/evaluation-workflow.md`, `protocols/scoring-and-veto.md` y todos los roles en `agents/`. Mantener separación de R1. Emitir íntegramente en español, con referencias a documentos y objeciones trazables. Nunca afirmar aprobación corporativa real ni inventar evidencia. Guardar entregables en `outputs/<proyecto>/`.

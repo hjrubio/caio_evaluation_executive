@@ -1,0 +1,1718 @@
+{
+  "source": {
+    "id": "DOC-008",
+    "path": "proyecto/Anexos_CAIO vf.docx",
+    "format": ".docx",
+    "sha256": "fb297c19c7376246b72ed7d2ef976c1851353ec83265afa5be320afaf2365018",
+    "size_bytes": 97637,
+    "status": "PENDING_VISUAL_REVIEW",
+    "requires_visual_review": true,
+    "units_count": 425,
+    "warnings": [
+      "Contiene imágenes u objetos: validar visualmente, extracción textual insuficiente.",
+      "Revisar encabezados/pies, comentarios, cuadros de texto y diseños complejos en vista original."
+    ]
+  },
+  "units": [
+    {
+      "locator": "paragraph:1",
+      "text": "FieldOps IA · Anexos A–I del Plan Maestro CAIO"
+    },
+    {
+      "locator": "paragraph:2",
+      "text": "Oct 23, 2026 · @Lo"
+    },
+    {
+      "locator": "paragraph:3",
+      "text": "Cómo leer estos anexos"
+    },
+    {
+      "locator": "paragraph:4",
+      "text": "Los anexos A a I respaldan cada cifra y cada decisión de la presentación al board de noviembre 2026. Todas las cifras salen de un único modelo financiero (anexo B): flujos trimestrales en 2027, anuales de 2028 a 2031, en USD constantes y antes de impuestos salvo aclaración. Austral Conecta S.A. es una empresa ficticia."
+    },
+    {
+      "locator": "paragraph:5",
+      "text": "Cifras que cambian respecto de la presentación"
+    },
+    {
+      "locator": "paragraph:6",
+      "text": "Al reconciliar el modelo, nueve puntos del deck se ajustan o se explicitan. Ninguna cambia la decisión; todas la vuelven auditable."
+    },
+    {
+      "locator": "paragraph:7",
+      "text": "Anexo A · Diagnóstico y punto de partida"
+    },
+    {
+      "locator": "paragraph:8",
+      "text": "Hoy Austral Conecta está en el nivel 2 de madurez de IA; el plan la lleva al nivel 3 en diciembre 2027 con la operación de campo como primer dominio, un sponsor (CEO), un co-dueño (COO) y un equipo de 11 personas."
+    },
+    {
+      "locator": "paragraph:9",
+      "text": "Calendario"
+    },
+    {
+      "locator": "paragraph:10",
+      "text": "Julio 2026. Asume el CAIO, reporta al CEO, con mandato del directorio: pasar de pilotos aislados a resultados medibles."
+    },
+    {
+      "locator": "paragraph:11",
+      "text": "Julio a octubre 2026, 100 días de diagnóstico. Inventario de 9 pilotos, entrevistas con 14 directivos, evaluación de datos de FSM, CRM y telemetría, y priorización de dominios por gasto evitable, datos disponibles y dueño de negocio. Gana la operación de campo: USD 57 M de costo anual, 45% sin valor, datos de órdenes disponibles y un COO aliado."
+    },
+    {
+      "locator": "paragraph:12",
+      "text": "Noviembre 2026, board. Aprobación del Plan Maestro, del tramo 1 (USD 3,3 M) y del gate de Q2."
+    },
+    {
+      "locator": "paragraph:13",
+      "text": "Diciembre 2026, preparación. Contratación del equipo núcleo, constitución del comité de IA, apertura de la mesa con el gremio."
+    },
+    {
+      "locator": "paragraph:14",
+      "text": "Enero a diciembre 2027, ejecución. Cuatro trimestres con gate a mitad de año (anexo G)."
+    },
+    {
+      "locator": "paragraph:15",
+      "text": "Madurez de IA"
+    },
+    {
+      "locator": "paragraph:16",
+      "text": "Por qué hoy es nivel 2 y no 3, según el diagnóstico:"
+    },
+    {
+      "locator": "paragraph:17",
+      "text": "Pilotos sin dueño: 9 pilotos en 4 áreas, ninguno en producción a escala y ninguno con beneficio medido contra un grupo de control."
+    },
+    {
+      "locator": "paragraph:18",
+      "text": "IA generativa sin política: uso libre de herramientas públicas, sin reglas sobre datos de clientes."
+    },
+    {
+      "locator": "paragraph:19",
+      "text": "Datos de campo de baja calidad: códigos de cierre de orden poco confiables y fotos sin estándar; telemetría disponible pero no unida a la orden."
+    },
+    {
+      "locator": "paragraph:20",
+      "text": "Sin gobierno: no hay comité de IA ni criterios de autonomía."
+    },
+    {
+      "locator": "paragraph:21",
+      "text": "Mapa de apoyos y plan de acción"
+    },
+    {
+      "locator": "paragraph:22",
+      "text": "Equipo mínimo"
+    },
+    {
+      "locator": "paragraph:23",
+      "text": "Se suman desde Q2 los curadores de conocimiento (técnicos senior reconvertidos, anexo F) y los despachadores que supervisan a la IA."
+    },
+    {
+      "locator": "paragraph:24",
+      "text": "RACI de las decisiones clave"
+    },
+    {
+      "locator": "paragraph:25",
+      "text": "R responsable de ejecutar, A aprueba (uno por fila), C consultado, I informado."
+    },
+    {
+      "locator": "paragraph:26",
+      "text": "Anexo B · Detalle financiero y caso de negocio"
+    },
+    {
+      "locator": "paragraph:27",
+      "text": "El plan invierte USD 5,4 M en 2027 (contingencia incluida), deja USD 8,8 M netos por año a régimen, recupera la inversión en Q1 2028 y tiene un VAN a 5 años de USD 21,0 M antes de impuestos (USD 13,4 M después) con WACC del 16%."
+    },
+    {
+      "locator": "paragraph:28",
+      "text": "Pérdida actual: USD 25,6 M por año"
+    },
+    {
+      "locator": "paragraph:29",
+      "text": "Todas las visitas cuestan lo mismo, propias o tercerizadas: USD 32. Base anual: 1,78 M de visitas para 1,21 M de órdenes resueltas (148 visitas cada 100 órdenes), USD 57,0 M de costo de campo."
+    },
+    {
+      "locator": "paragraph:30",
+      "text": "Las visitas evitables salen de la muestra de cierres del diagnóstico: reinicios, configuración de equipo y fallas de red ya conocidas al momento del reclamo."
+    },
+    {
+      "locator": "paragraph:31",
+      "text": "Beneficio a régimen por palanca"
+    },
+    {
+      "locator": "paragraph:32",
+      "text": "Las cifras ya excluyen el 10% de órdenes que queda como grupo de control (anexo E)."
+    },
+    {
+      "locator": "paragraph:33",
+      "text": "Lectura de los números del deck:"
+    },
+    {
+      "locator": "paragraph:34",
+      "text": "Ahorro de USD 9,7 M (−17%): suma de las palancas 1 a 4, verificable en las facturas de contratistas."
+    },
+    {
+      "locator": "paragraph:35",
+      "text": "Captura: 39% bruta (10,1 / 25,6) y 34% neta (8,8 / 25,6)."
+    },
+    {
+      "locator": "paragraph:36",
+      "text": "Métrica norte: (57,0 − 9,7 + 1,3) / 1,21 M de órdenes = USD 40,3 por orden resuelta, contra USD 47,3 hoy. El opex de IA entra en la métrica para que el ahorro no se exagere."
+    },
+    {
+      "locator": "paragraph:37",
+      "text": "RPU neto de campo: 8,8 M / 1,6 M de abonados / 12 = +USD 0,46 por abonado y mes (de 18,96 a 19,42)."
+    },
+    {
+      "locator": "paragraph:38",
+      "text": "Triage y gate: a régimen el triage atiende la mitad de los reclamos de reparación y resuelve el 20% de los que atiende: 50% × 20% = 10% de las órdenes."
+    },
+    {
+      "locator": "paragraph:39",
+      "text": "No se cuenta como beneficio la baja del papeleo (60 a 35 minutos por día): es tiempo, no factura."
+    },
+    {
+      "locator": "paragraph:40",
+      "text": "Inversión 2027 por trimestre y tramo"
+    },
+    {
+      "locator": "paragraph:41",
+      "text": "Tramo 1 = USD 3,29 M (Q1 + Q2). Tramo 2 = USD 2,11 M (Q3 + Q4), liberado solo si se cumple el gate de Q2. La contingencia la administra el comité de IA; lo no usado vuelve al CFO."
+    },
+    {
+      "locator": "paragraph:42",
+      "text": "Por tipo de gasto: tecnología y plataforma USD 2,0 M, datos USD 1,4 M, talento y equipo USD 1,3 M, capacitación y cambio USD 0,7 M."
+    },
+    {
+      "locator": "paragraph:43",
+      "text": "Proyección a 5 años (USD M, antes de impuestos)"
+    },
+    {
+      "locator": "paragraph:44",
+      "text": "Beneficio 2027 por trimestre: 0,1 · 0,6 · 1,5 · 2,2. El bruto crece 2% anual con la base de abonados."
+    },
+    {
+      "locator": "paragraph:45",
+      "text": "La TIR es alta porque USD 5,4 M atacan USD 57 M de gasto anual; el número a defender es el VAN."
+    },
+    {
+      "locator": "paragraph:46",
+      "text": "Supuestos"
+    },
+    {
+      "locator": "paragraph:47",
+      "text": "Moneda y tasa: USD constantes; WACC 16% en dólares, que incluye riesgo país."
+    },
+    {
+      "locator": "paragraph:48",
+      "text": "Impuestos: ganancias 35%; inversión amortizada en 3 años; quebranto del año 1 trasladable."
+    },
+    {
+      "locator": "paragraph:49",
+      "text": "Costo por visita: USD 32, igual propia o tercerizada; sin ajuste por inflación en USD."
+    },
+    {
+      "locator": "paragraph:50",
+      "text": "Abonados: 1,6 M, crecimiento 2% anual."
+    },
+    {
+      "locator": "paragraph:51",
+      "text": "ARPU: USD 22,0 por mes. Una reparación que falla a la primera cuesta USD 59 (revisita, contactos adicionales y bonificación) = 2,7 meses de ARPU."
+    },
+    {
+      "locator": "paragraph:52",
+      "text": "Flujos: trimestrales en 2027 y anuales desde 2028, descontados a mitad de período."
+    },
+    {
+      "locator": "paragraph:53",
+      "text": "Personal propio: sin despidos; la planta propia mantiene sus 7 visitas por día y lo que baja es el volumen de terceros. Dotación: 1.500 técnicos, de los cuales 1.000 hacen visitas a domicilio (400 propios y 600 de terceros) a 7 visitas por día durante 255 días hábiles, y 500 hacen red, mantenimiento y supervisión."
+    },
+    {
+      "locator": "paragraph:54",
+      "text": "Sensibilidad"
+    },
+    {
+      "locator": "paragraph:55",
+      "text": "Las dos variables que mueven el caso son el first-time fix y el triage: por eso el gate de Q2 mide triage y adopción del copiloto, y el gate de Q3, first-time fix."
+    },
+    {
+      "locator": "paragraph:56",
+      "text": "Estimación trimestral incremental y medición del ROI"
+    },
+    {
+      "locator": "paragraph:57",
+      "text": "Cada visita que la IA evita es una visita menos facturada por terceros. La planta propia hace siempre sus 7 visitas por día. A régimen dejan de hacer falta 175 técnicos de terceros equivalentes (de 600 a 425), la factura de terceros baja 29% y el retorno acumulado es positivo desde Q1 2028."
+    },
+    {
+      "locator": "paragraph:58",
+      "text": "Dotación y línea base"
+    },
+    {
+      "locator": "paragraph:59",
+      "text": "Línea base por trimestre, congelada en diciembre 2026: 446.000 visitas, 267.500 de terceros (USD 8,56 M facturados), 148 visitas cada 100 órdenes resueltas, 4,73 órdenes resueltas por técnico y día, y métrica norte de USD 47,3."
+    },
+    {
+      "locator": "paragraph:60",
+      "text": "La regla de despacho garantiza el mecanismo: las órdenes se asignan primero a la planta propia hasta completar sus 7 visitas diarias, y los terceros toman solo el excedente."
+    },
+    {
+      "locator": "paragraph:61",
+      "text": "Trimestre a trimestre contra la línea base"
+    },
+    {
+      "locator": "paragraph:62",
+      "text": "Cada columna se compara con la línea base. Desde Q1 2028 los valores se repiten cada trimestre, a régimen."
+    },
+    {
+      "locator": "paragraph:63",
+      "text": "En 2028 el ROI acumulado sube a 48% en Q2, 88% en Q3 y 129% en Q4. La factura de terceros baja por las visitas liberadas × USD 32; el ahorro neto descuenta además USD 2,5 por cada caso resuelto a distancia."
+    },
+    {
+      "locator": "paragraph:64",
+      "text": "Desde cuándo se ve el retorno"
+    },
+    {
+      "locator": "paragraph:65",
+      "text": "Cómo se mide"
+    },
+    {
+      "locator": "paragraph:66",
+      "text": "Línea base ajustada por volumen. Si crecen los abonados, crecen las órdenes; por eso el ahorro se calcula por orden y no contra el total de visitas."
+    },
+    {
+      "locator": "paragraph:67",
+      "text": "Ahorro del trimestre = (visitas por orden de la línea base − visitas por orden del trimestre) × órdenes del trimestre × USD 32 − costo de resolución remota del trimestre"
+    },
+    {
+      "locator": "paragraph:68",
+      "text": "Grupo de control del 10%. Confirma que la diferencia la produce la IA y no la estacionalidad, el clima o un cambio en la red. Si el control también mejora, esa mejora se descuenta."
+    },
+    {
+      "locator": "paragraph:69",
+      "text": "Conciliación con la factura de terceros. Las visitas ahorradas tienen que aparecer como menos visitas facturadas en el trimestre. Una diferencia mayor al 10% se explica ante el comité."
+    },
+    {
+      "locator": "paragraph:70",
+      "text": "Ocupación de la planta propia. Se verifica que los 400 técnicos propios sigan en 7 visitas por día; si bajan, la visita liberada no se tradujo en menos terceros."
+    },
+    {
+      "locator": "paragraph:71",
+      "text": "ROI acumulado. Beneficio neto = ahorro + ingreso − opex de la IA."
+    },
+    {
+      "locator": "paragraph:72",
+      "text": "ROI acumulado = (beneficio neto acumulado − inversión acumulada) / inversión acumulada"
+    },
+    {
+      "locator": "paragraph:73",
+      "text": "Quién certifica. Control de Gestión, bajo el CFO, certifica el ahorro y el ROI de cada trimestre antes de la sesión del gate. El CAIO reporta, pero no certifica su propio resultado."
+    },
+    {
+      "locator": "paragraph:74",
+      "text": "Qué no se cuenta. Minutos de papeleo, mejora de NPS y horas de técnicos propios: no generan caja y quedan como guardas, no como beneficio."
+    },
+    {
+      "locator": "paragraph:75",
+      "text": "Anexo C · Arquitectura técnica y modelos"
+    },
+    {
+      "locator": "paragraph:76",
+      "text": "Ningún modelo generativo decide solo: el LLM captura, un modelo de ML explicable predice, Jev decide dentro de un conjunto cerrado de opciones tipadas y un motor de reglas versionadas puede anular la decisión antes y después."
+    },
+    {
+      "locator": "paragraph:77",
+      "text": "Cuatro capas sobre los sistemas actuales"
+    },
+    {
+      "locator": "paragraph:78",
+      "text": "La plataforma se monta sobre el FSM actual: lee y escribe órdenes por API, sin reemplazar el core."
+    },
+    {
+      "locator": "paragraph:79",
+      "text": "Flujo de decisión del triage"
+    },
+    {
+      "locator": "paragraph:80",
+      "text": "Captura. El agente conversacional (LLM) pregunta y devuelve un JSON validado contra un esquema tipado: síntoma, servicio afectado, equipo, desde cuándo, disponibilidad. Si el JSON no valida, repregunta; al segundo fallo deriva a una persona. El agente no ejecuta acciones."
+    },
+    {
+      "locator": "paragraph:81",
+      "text": "Predicción. Un modelo de ML (gradient boosting) entrenado con datos propios estima la falla probable y la probabilidad de resolver a distancia. Variables: telemetría del equipo (potencia óptica, reinicios, errores), incidentes de red abiertos en la zona, historial de órdenes del cliente y antigüedad del equipo. Cada predicción viaja con su explicación (valores SHAP de las 5 variables principales)."
+    },
+    {
+      "locator": "paragraph:82",
+      "text": "Decisión. Jev (TypeSafe AI) elige una opción del enum tipado. El tipo no permite opciones fuera del conjunto ni un despacho sin ventana ni skill. Respaldo: Decisions API de OpenAI con el mismo esquema; si fallan ambos proveedores, decide la combinación ML + reglas."
+    },
+    {
+      "locator": "paragraph:83",
+      "text": "Control. El motor de reglas versionadas, de las que es dueño Operaciones, actúa dos veces. Antes: resuelve los casos obvios sin consultar a la IA (por ejemplo, una caída masiva conocida implica aviso y no despacho). Después: puede anular la decisión (por ejemplo, un cliente con 2 reclamos en 30 días va siempre a visita o a una persona)."
+    },
+    {
+      "locator": "paragraph:84",
+      "text": "Acción. Se ejecuta la opción, se informa al cliente y todo queda registrado."
+    },
+    {
+      "locator": "paragraph:85",
+      "text": "Opciones tipadas"
+    },
+    {
+      "locator": "paragraph:86",
+      "text": "type DecisionTriage =\n  | { opcion: \"SIN_ACCION\"; motivo: \"FALLA_MASIVA_CONOCIDA\" | \"RESUELTO_POR_CLIENTE\" }\n  | { opcion: \"GUIA_REMOTA\"; procedimiento: IdProcedimiento; maxMinutos: 15 }\n  | { opcion: \"ACCION_REMOTA_RED\"; accion: \"REINICIO\" | \"RECONFIGURACION\" | \"CAMBIO_PERFIL\" }\n  | { opcion: \"DESPACHO\"; skill: Skill; prioridad: 1 | 2 | 3; ventana: Ventana20Min }\n  | { opcion: \"DERIVAR_PERSONA\"; motivo: MotivoDerivacion }"
+    },
+    {
+      "locator": "paragraph:87",
+      "text": "Ningún otro valor compila. Una compensación al cliente no es una opción del triage: la decide una persona según la política del anexo E."
+    },
+    {
+      "locator": "paragraph:88",
+      "text": "Trazabilidad de Jev"
+    },
+    {
+      "locator": "paragraph:89",
+      "text": "Cada decisión genera un registro inmutable (append-only, con hash encadenado) en el data lake."
+    },
+    {
+      "locator": "paragraph:90",
+      "text": "Retención de 3 años. Lo consultan el CISO, Legales y Auditoría Interna, y responde a cualquier reclamo del tipo \"¿por qué no me mandaron un técnico?\"."
+    },
+    {
+      "locator": "paragraph:91",
+      "text": "Modelo de datos unificado"
+    },
+    {
+      "locator": "paragraph:92",
+      "text": "MLOps y operación"
+    },
+    {
+      "locator": "paragraph:93",
+      "text": "Entornos: desarrollo, pruebas y producción separados; datos de producción seudonimizados en desarrollo."
+    },
+    {
+      "locator": "paragraph:94",
+      "text": "Modo sombra: el triage corre en Q1 sin actuar; sus decisiones se comparan con lo que pasó."
+    },
+    {
+      "locator": "paragraph:95",
+      "text": "Reentrenamiento: mensual para el modelo de falla, con aprobación del comité si cambia la métrica en más de 2 pp."
+    },
+    {
+      "locator": "paragraph:96",
+      "text": "Monitoreo: deriva de datos, tasa de anulación por reglas, latencia y costo por decisión; alerta si las anulaciones superan el 15%."
+    },
+    {
+      "locator": "paragraph:97",
+      "text": "Conmutación: el gateway cambia de proveedor ante una falla; ML + reglas como último respaldo."
+    },
+    {
+      "locator": "paragraph:98",
+      "text": "Anexo D · Gobierno y autonomía"
+    },
+    {
+      "locator": "paragraph:99",
+      "text": "La IA solo actúa sola en tareas de bajo riesgo y reversibles. Todo lo que afecta a un empleado o cierra un caso sin confirmación del cliente lo decide siempre una persona. El comité de IA decide en cada gate trimestral y el CISO tiene veto."
+    },
+    {
+      "locator": "paragraph:100",
+      "text": "Escalera de autonomía"
+    },
+    {
+      "locator": "paragraph:101",
+      "text": "Subir un caso de nivel exige aprobación del comité, 8 semanas de evidencia contra el grupo de control y la firma del CISO. Bajarlo lo puede hacer el COO solo, en cualquier momento."
+    },
+    {
+      "locator": "paragraph:102",
+      "text": "Matriz de decisión por caso"
+    },
+    {
+      "locator": "paragraph:103",
+      "text": "Comité de IA"
+    },
+    {
+      "locator": "paragraph:104",
+      "text": "Preside: CAIO."
+    },
+    {
+      "locator": "paragraph:105",
+      "text": "Miembros con voto: CEO, COO, CFO, CTO/CIO, Atención al Cliente."
+    },
+    {
+      "locator": "paragraph:106",
+      "text": "Con veto: CISO, sobre seguridad y privacidad."
+    },
+    {
+      "locator": "paragraph:107",
+      "text": "Con voz: Legales y RR.HH.; el Change Lead como secretario técnico."
+    },
+    {
+      "locator": "paragraph:108",
+      "text": "Cadencia: semanal en Q1, quincenal de Q2 a Q4, y una sesión extraordinaria por gate."
+    },
+    {
+      "locator": "paragraph:109",
+      "text": "Insumos fijos: tablero de la métrica norte, resultados contra el grupo de control, guardas (NPS post-visita, SLA de reparación, incidentes de privacidad), tasa de anulación por reglas y ejecución presupuestaria."
+    },
+    {
+      "locator": "paragraph:110",
+      "text": "Anexo E · Seguridad, legal y Ley 25.326"
+    },
+    {
+      "locator": "paragraph:111",
+      "text": "Todo ahorro se mide contra un grupo de control permanente del 10%. A los proveedores de IA solo viaja el estado del caso, nunca datos personales. El plan cumple la Ley 25.326 y el Convenio 108+, vigente en Argentina por la Ley 27.699, con evaluación de impacto firmada por el CISO antes de cada salida a producción."
+    },
+    {
+      "locator": "paragraph:112",
+      "text": "Grupo de control permanente del 10%"
+    },
+    {
+      "locator": "paragraph:113",
+      "text": "Qué es: el 10% de los reclamos elegibles sigue el proceso actual, sin triage ni despacho por IA. La asignación es aleatoria y estable por cliente (hash del ID)."
+    },
+    {
+      "locator": "paragraph:114",
+      "text": "Para qué: el uplift de cada palanca es la diferencia entre tratados y control en visitas por orden resuelta, first-time fix, visitas fallidas, NPS post-visita y SLA. Es la evidencia que pide el CFO y la base del gate de Q2."
+    },
+    {
+      "locator": "paragraph:115",
+      "text": "Despacho y ruteo: como afectan a toda una agenda, se controlan por zona y semana alternadas durante el piloto de Q3."
+    },
+    {
+      "locator": "paragraph:116",
+      "text": "Duración: permanente; el comité puede bajarlo al 5% desde 2029 si la diferencia es estable durante 4 trimestres."
+    },
+    {
+      "locator": "paragraph:117",
+      "text": "Costo: ya descontado del beneficio del anexo B."
+    },
+    {
+      "locator": "paragraph:118",
+      "text": "Controles clave"
+    },
+    {
+      "locator": "paragraph:119",
+      "text": "Ley 25.326 y Convenio 108+"
+    },
+    {
+      "locator": "paragraph:120",
+      "text": "Política de resolución remota y compensaciones"
+    },
+    {
+      "locator": "paragraph:121",
+      "text": "Resolución remota: la IA puede guiar al cliente hasta 15 minutos; si no se resuelve, se ofrece visita sin volver a preguntar."
+    },
+    {
+      "locator": "paragraph:122",
+      "text": "Derecho a visita: un cliente que pide técnico lo recibe, aunque la IA haya estimado resolución remota."
+    },
+    {
+      "locator": "paragraph:123",
+      "text": "Compensaciones: las bonificaciones por falla repetida siguen la tabla vigente de Atención al Cliente. Hasta 1 mes de abono, decide el representante; por encima, el supervisor. La IA nunca promete ni otorga una compensación."
+    },
+    {
+      "locator": "paragraph:124",
+      "text": "Registro: toda compensación queda vinculada a la orden y a la decisión de Jev."
+    },
+    {
+      "locator": "paragraph:125",
+      "text": "Versionado: Operaciones es dueño de las reglas y Atención al Cliente de la tabla de compensaciones; cada cambio queda versionado y lo informa el comité."
+    },
+    {
+      "locator": "paragraph:126",
+      "text": "Seguridad técnica"
+    },
+    {
+      "locator": "paragraph:127",
+      "text": "Autenticación: SSO con doble factor para consolas y app del técnico; validación del cliente por número de línea más un dato del contrato."
+    },
+    {
+      "locator": "paragraph:128",
+      "text": "Autorización: roles mínimos; los contratistas solo ven sus órdenes."
+    },
+    {
+      "locator": "paragraph:129",
+      "text": "Cifrado: en tránsito (TLS 1.2+) y en reposo; claves gestionadas por Seguridad."
+    },
+    {
+      "locator": "paragraph:130",
+      "text": "DLP: filtros sobre salidas del gateway y del copiloto para bloquear PII y datos de red sensibles."
+    },
+    {
+      "locator": "paragraph:131",
+      "text": "Pruebas: red teaming del agente antes del gate de Q1 y antes de cada nueva capacidad."
+    },
+    {
+      "locator": "paragraph:132",
+      "text": "Anexo F · Personas, contratistas y cambio"
+    },
+    {
+      "locator": "paragraph:133",
+      "text": "No hay despidos en la planta propia. Las 312.500 visitas liberadas por año se absorben bajando el volumen facturado por contratistas. El técnico trabaja aumentado (briefing, copiloto, dictado), aparecen dos roles nuevos y el acuerdo con el gremio se firma en Q1: la IA no evalúa desempeño individual."
+    },
+    {
+      "locator": "paragraph:134",
+      "text": "Impacto por grupo"
+    },
+    {
+      "locator": "paragraph:135",
+      "text": "Acuerdo con el gremio (Q1)"
+    },
+    {
+      "locator": "paragraph:136",
+      "text": "Mesa abierta en diciembre 2026, firma antes del gate de Q1."
+    },
+    {
+      "locator": "paragraph:137",
+      "text": "Sin despidos por la implementación de IA en la planta propia."
+    },
+    {
+      "locator": "paragraph:138",
+      "text": "La IA no se usa para evaluar, sancionar ni rankear técnicos individualmente."
+    },
+    {
+      "locator": "paragraph:139",
+      "text": "La ubicación se usa solo para operar el despacho."
+    },
+    {
+      "locator": "paragraph:140",
+      "text": "El técnico puede apartarse de la sugerencia del copiloto sin justificación previa; el desvío se registra para mejorar el modelo, no para evaluarlo."
+    },
+    {
+      "locator": "paragraph:141",
+      "text": "Formación en horario laboral y acceso prioritario de técnicos propios a los roles nuevos."
+    },
+    {
+      "locator": "paragraph:142",
+      "text": "Revisión semestral del acuerdo en una comisión mixta."
+    },
+    {
+      "locator": "paragraph:143",
+      "text": "Plan de transición de contratistas"
+    },
+    {
+      "locator": "paragraph:144",
+      "text": "La baja es de volumen facturado, no de cabezas propias. Para las empresas contratistas, el contrato por resultado premia la calidad y compensa en parte el menor volumen."
+    },
+    {
+      "locator": "paragraph:145",
+      "text": "Roles nuevos"
+    },
+    {
+      "locator": "paragraph:146",
+      "text": "Curador de conocimiento. Técnico senior de la dotación de red y supervisión, uno cada 100 técnicos de domicilio (10 en total), para no restar visitas a la planta propia."
+    },
+    {
+      "locator": "paragraph:147",
+      "text": "Misión: que el copiloto y la guía remota respondan con el saber real de la calle."
+    },
+    {
+      "locator": "paragraph:148",
+      "text": "Responsabilidades: revisar semanalmente una muestra de respuestas del copiloto y del triage; corregir y aprobar procedimientos; incorporar fallas nuevas a la base de conocimiento; etiquetar fotos para el modelo de visión; reportar errores recurrentes al comité."
+    },
+    {
+      "locator": "paragraph:149",
+      "text": "Perfil: 5 o más años en campo, dominio de fibra y TV, buena escritura; formación de 6 semanas en la Academia IA."
+    },
+    {
+      "locator": "paragraph:150",
+      "text": "Indicadores: tasa de respuestas corregidas, tiempo de actualización de procedimientos, first-time fix de las órdenes que usaron el copiloto."
+    },
+    {
+      "locator": "paragraph:151",
+      "text": "Despachador supervisor de la IA. Aprueba o corrige las propuestas de despacho, gestiona excepciones y alimenta las reglas de Operaciones."
+    },
+    {
+      "locator": "paragraph:152",
+      "text": "Gestión del cambio"
+    },
+    {
+      "locator": "paragraph:153",
+      "text": "Métricas de adopción: uso del copiloto en órdenes elegibles (meta 60% en Q2, 80% en Q4), órdenes con briefing abierto antes de salir, desvíos registrados frente a la sugerencia y clima de los técnicos en cada pulso."
+    },
+    {
+      "locator": "paragraph:154",
+      "text": "Anexo G · Roadmap de 12 meses"
+    },
+    {
+      "locator": "paragraph:155",
+      "text": "Cuatro trimestres avanzan en tres planos a la vez (técnico, financiero y cultural), con un gate medible al cierre de cada uno. El gate de Q2 libera el tramo 2 solo si el triage resuelve volumen y calidad contra el grupo de control. Al salir de Q4, el run-rate neto es de USD 8,8 M por año."
+    },
+    {
+      "locator": "paragraph:156",
+      "text": "Por trimestre"
+    },
+    {
+      "locator": "paragraph:157",
+      "text": "Gate de Q2: condición para liberar el tramo 2 (USD 2,11 M)"
+    },
+    {
+      "locator": "paragraph:158",
+      "text": "Se libera solo si se cumplen las cinco condiciones, medidas en las últimas 6 semanas de junio contra el grupo de control."
+    },
+    {
+      "locator": "paragraph:159",
+      "text": "Volumen: el triage resuelve sin visita ≥ 20% de los reclamos que atiende."
+    },
+    {
+      "locator": "paragraph:160",
+      "text": "Calidad del triage: el re-reclamo a 7 días de los casos resueltos a distancia no supera en más del 10% al de los casos con visita del grupo de control."
+    },
+    {
+      "locator": "paragraph:161",
+      "text": "Experiencia: NPS post-triage ≥ 90% del NPS post-visita del grupo de control."
+    },
+    {
+      "locator": "paragraph:162",
+      "text": "Adopción: uso del copiloto ≥ 60% de las órdenes elegibles en la zona piloto."
+    },
+    {
+      "locator": "paragraph:163",
+      "text": "Costo: ejecución del tramo 1 sin sobrecosto mayor al 20%; cero incidentes de privacidad graves."
+    },
+    {
+      "locator": "paragraph:164",
+      "text": "Si falla el volumen o la calidad, rige la decisión preacordada del escenario pesimista (anexo H). Si falla solo la adopción, el comité puede extender el piloto 6 semanas sin liberar fondos."
+    },
+    {
+      "locator": "paragraph:165",
+      "text": "Dependencias críticas"
+    },
+    {
+      "locator": "paragraph:166",
+      "text": "Triage en producción (Q2) depende de la integración de telemetría y del gate de Q1."
+    },
+    {
+      "locator": "paragraph:167",
+      "text": "Copiloto en todas las zonas (Q3) depende del gate de Q2 y de los curadores formados."
+    },
+    {
+      "locator": "paragraph:168",
+      "text": "Despacho inteligente (Q3–Q4) depende de reglas v1 aprobadas por el COO y de la integración de inventario."
+    },
+    {
+      "locator": "paragraph:169",
+      "text": "Todo despliegue a producción depende de la evaluación de impacto firmada por el CISO."
+    },
+    {
+      "locator": "paragraph:170",
+      "text": "Anexo H · Escenarios"
+    },
+    {
+      "locator": "paragraph:171",
+      "text": "El VAN es positivo en los tres escenarios. Ponderado por probabilidad, el VAN esperado es de USD 19,0 M y el beneficio esperado a régimen, de USD 8,2 M por año. La respuesta a cada desvío está decidida antes de empezar."
+    },
+    {
+      "locator": "paragraph:172",
+      "text": "El pesimista supone que se gasta todo; si el gate de Q2 frena el tramo 2, la exposición baja hasta USD 2,11 M."
+    },
+    {
+      "locator": "paragraph:174",
+      "text": "árbol de decisión · gates de Q2 y Q3, tres escenarios"
+    },
+    {
+      "locator": "paragraph:175",
+      "text": "Los gatillos se miden contra el grupo de control y los decide el comité de IA en la sesión del gate."
+    },
+    {
+      "locator": "paragraph:176",
+      "text": "Costo de esperar"
+    },
+    {
+      "locator": "paragraph:177",
+      "text": "Con un beneficio esperado de USD 8,2 M por año a régimen (25% × 3,5 + 50% × 8,8 + 25% × 11,8), cada mes de demora corre el calendario y resta USD 0,7 M. Un trimestre de demora cuesta USD 2,1 M, más que toda la inversión de Q1."
+    },
+    {
+      "locator": "paragraph:178",
+      "text": "Anexo I · Decisión, ask y políticas"
+    },
+    {
+      "locator": "paragraph:179",
+      "text": "Hoy se le piden tres decisiones al board: USD 3,29 M para el primer semestre, el gate de Q2 como única llave del resto, y el mandato de gobierno para operar desde enero. Cada mes sin decidir cuesta USD 0,7 M."
+    },
+    {
+      "locator": "paragraph:180",
+      "text": "El ask"
+    },
+    {
+      "locator": "paragraph:181",
+      "text": "Aprobar el Plan Maestro y el tramo 1: USD 3,29 M para Q1 y Q2 2027, con la contingencia incluida."
+    },
+    {
+      "locator": "paragraph:182",
+      "text": "Atar el tramo 2 al gate de Q2: USD 2,11 M para Q3 y Q4, liberados solo si se cumplen las cinco condiciones del anexo G, medidas contra el grupo de control."
+    },
+    {
+      "locator": "paragraph:183",
+      "text": "Constituir el comité de IA y aprobar sus políticas: autonomía de la IA, resolución remota y compensaciones, y datos y uso de IA generativa; con mandato para cerrar el acuerdo con el gremio en Q1."
+    },
+    {
+      "locator": "paragraph:184",
+      "text": "Costo de no hacer"
+    },
+    {
+      "locator": "paragraph:185",
+      "text": "Hoy: USD 25,6 M por año de pérdida (USD 2,1 M por mes), creciendo con cada abonado nuevo."
+    },
+    {
+      "locator": "paragraph:186",
+      "text": "Demorar la decisión: −USD 0,7 M de beneficio esperado por mes y −USD 2,1 M por trimestre."
+    },
+    {
+      "locator": "paragraph:187",
+      "text": "Sin decidir: la empresa sigue en el nivel 2 de madurez, con pilotos sin dueño y uso de IA generativa sin política."
+    },
+    {
+      "locator": "paragraph:188",
+      "text": "Políticas a aprobar"
+    },
+    {
+      "locator": "paragraph:189",
+      "text": "Primeros 30 días después del board"
+    },
+    {
+      "locator": "paragraph:190",
+      "text": "Fuentes"
+    },
+    {
+      "locator": "paragraph:191",
+      "text": "Aprobación del Convenio 108+ por el Congreso (Ley 27.699), Estudio O'Farrell."
+    },
+    {
+      "locator": "paragraph:192",
+      "text": "Promulgación de la Ley 27.699, abogados.com.ar."
+    },
+    {
+      "locator": "paragraph:193",
+      "text": "Cifras del caso: modelo financiero de este documento (anexo B), sobre los supuestos de la presentación FieldOps IA."
+    },
+    {
+      "locator": "table:1/row:1",
+      "text": "Anexo | Contenido | Respalda el slide"
+    },
+    {
+      "locator": "table:1/row:2",
+      "text": "A | Diagnóstico, madurez, mapa de apoyos, equipo y RACI | 2"
+    },
+    {
+      "locator": "table:1/row:3",
+      "text": "B | Pérdida, palancas, puente bruto a neto, inversión, 5 años, sensibilidad | 1, 3, 4, 5, 8"
+    },
+    {
+      "locator": "table:1/row:4",
+      "text": "C | Arquitectura, flujo de decisión tipado, trazabilidad, datos | 6"
+    },
+    {
+      "locator": "table:1/row:5",
+      "text": "D | Escalera de autonomía, matriz de decisión, comité de IA | 7"
+    },
+    {
+      "locator": "table:1/row:6",
+      "text": "E | Seguridad, grupo de control, Ley 25.326 y Convenio 108+ | 7"
+    },
+    {
+      "locator": "table:1/row:7",
+      "text": "F | Personas, contratistas, gremio y gestión del cambio | 7, 9"
+    },
+    {
+      "locator": "table:1/row:8",
+      "text": "G | Roadmap trimestral con gates medibles | 9"
+    },
+    {
+      "locator": "table:1/row:9",
+      "text": "H | Escenarios, gatillos y árbol de decisión | 10"
+    },
+    {
+      "locator": "table:1/row:10",
+      "text": "I | Ask, políticas a aprobar y primeros 30 días | 1, 10"
+    },
+    {
+      "locator": "table:2/row:1",
+      "text": "Concepto | Deck | Anexos | Motivo"
+    },
+    {
+      "locator": "table:2/row:2",
+      "text": "Captura de la pérdida a régimen | ~40% | 34% neto (39% bruto) | 8,8 / 25,6 = 34%; el 40% era sobre beneficio bruto"
+    },
+    {
+      "locator": "table:2/row:3",
+      "text": "Contingencia | \"cada trimestre suma 15%\" | Incluida en los USD 5,4 M: 4,71 de componentes + 0,69 de contingencia | Los componentes del slide 8 suman 4,71 M"
+    },
+    {
+      "locator": "table:2/row:4",
+      "text": "Flujo del año 1 | −1,8 sin desglose | Beneficio bruto 4,4 − opex 0,8 − inversión 5,4 = −1,8 | El opex de operación de la IA no estaba visible"
+    },
+    {
+      "locator": "table:2/row:5",
+      "text": "Run-rate al salir de Q4 | \"Q4: 2,2 M (8,8 M/año)\" | Q4 promedia 2,2 M bruto; en diciembre el run-rate neto llega a 8,8 M/año | Q4 todavía rampea"
+    },
+    {
+      "locator": "table:2/row:6",
+      "text": "VAN 5 años antes / después de impuestos | 20,7 / 13,0 | 21,0 / 13,4 | Recalculado con flujos trimestrales"
+    },
+    {
+      "locator": "table:2/row:7",
+      "text": "TIR antes / después de impuestos | 282% / 163% | 276% / 175% | Ídem"
+    },
+    {
+      "locator": "table:2/row:8",
+      "text": "Pesimista: neto 24 m · VAN · TIR | −1,8 · 3,3 · 46% | −1,8 · 3,7 · 48% | Ídem"
+    },
+    {
+      "locator": "table:2/row:9",
+      "text": "Optimista: neto 24 m · VAN | 11,7 · no informado | 11,3 · 30,3 | Se agrega el VAN a cada escenario"
+    },
+    {
+      "locator": "table:2/row:10",
+      "text": "Gate de Q2 | triage ≥ 20% y copiloto ≥ 60% | + guarda de calidad y medición contra grupo de control | Volumen sin calidad no libera el tramo 2"
+    },
+    {
+      "locator": "table:3/row:1",
+      "text": "Nivel | Nombre | Qué lo define | Austral Conecta"
+    },
+    {
+      "locator": "table:3/row:2",
+      "text": "1 | Sin uso | Sin iniciativas de IA ni datos preparados | Superado"
+    },
+    {
+      "locator": "table:3/row:3",
+      "text": "2 | Experimental | Pilotos aislados sin dueño común, sin política, sin plataforma | Hoy"
+    },
+    {
+      "locator": "table:3/row:4",
+      "text": "3 | Operacional | Un dominio a escala, plataforma y gobierno comunes, valor medido contra control | Meta a 12 meses"
+    },
+    {
+      "locator": "table:3/row:5",
+      "text": "4 | Escalado | Varios dominios sobre la misma plataforma, portafolio gestionado | 2028–2029"
+    },
+    {
+      "locator": "table:3/row:6",
+      "text": "5 | Transformacional | La IA redefine procesos y modelo de negocio | Visión"
+    },
+    {
+      "locator": "table:4/row:1",
+      "text": "Cuadrante | Directivo | Qué le importa | Acción | Cuándo"
+    },
+    {
+      "locator": "table:4/row:2",
+      "text": "Aliados: sostener | CEO (sponsor) | Resultado visible al board | Tablero mensual de la métrica norte; vocero en cada gate | Desde Q1"
+    },
+    {
+      "locator": "table:4/row:3",
+      "text": "Aliados: sostener | COO (co-dueño) | Costo de campo y SLA | Co-preside las revisiones de despacho; dueño de las reglas de negocio | Desde Q1"
+    },
+    {
+      "locator": "table:4/row:4",
+      "text": "Aliados: sostener | Atención al Cliente | Reclamos y NPS | Quick win del aviso proactivo en Q1 | Q1"
+    },
+    {
+      "locator": "table:4/row:5",
+      "text": "Aliados: sostener | Comercial | Instalaciones bien hechas, baja temprana | Control de calidad por foto en instalaciones; reporte de reinstalaciones | Q3"
+    },
+    {
+      "locator": "table:4/row:6",
+      "text": "A ganar: convencer | CFO | Que el ahorro sea real y el riesgo acotado | Ahorro medido en facturas de contratistas contra grupo de control; financiamiento en tramos | Antes del board"
+    },
+    {
+      "locator": "table:4/row:7",
+      "text": "A ganar: convencer | CTO/CIO | Carga sobre su equipo y su core | Equipo de integración propio del plan; la plataforma no toca el core del FSM | Antes del board"
+    },
+    {
+      "locator": "table:4/row:8",
+      "text": "Condicionados: involucrar | CISO | Fuga de datos, proveedores externos | Veto en el comité; firma la evaluación de impacto antes de cada salida a producción | Desde Q1"
+    },
+    {
+      "locator": "table:4/row:9",
+      "text": "Condicionados: involucrar | RR.HH. | Relación gremial, roles | Lidera el acuerdo con el gremio y el diseño de roles nuevos | Q1"
+    },
+    {
+      "locator": "table:4/row:10",
+      "text": "Condicionados: involucrar | Legales | Ley 25.326, contratos | Revisa políticas, consentimientos y cláusulas con contratistas | Q1"
+    },
+    {
+      "locator": "table:4/row:11",
+      "text": "Afectados: acordar | Gremio de técnicos | Empleo y control del desempeño | Acuerdo: sin despidos y la IA no evalúa desempeño individual | Firmado en Q1"
+    },
+    {
+      "locator": "table:4/row:12",
+      "text": "Afectados: acordar | Empresas contratistas | Volumen facturado | Transición a contrato por orden resuelta con aviso de 6 meses | Plan en Q3, vigente 2028"
+    },
+    {
+      "locator": "table:5/row:1",
+      "text": "Rol | Personas | Desde | Responsabilidad"
+    },
+    {
+      "locator": "table:5/row:2",
+      "text": "CAIO | 1 | Jul 2026 | Dueño del plan, preside el comité de IA"
+    },
+    {
+      "locator": "table:5/row:3",
+      "text": "PM técnico | 1 | Dic 2026 | Plataforma, integraciones, MLOps"
+    },
+    {
+      "locator": "table:5/row:4",
+      "text": "PM de negocio (operación de campo) | 1 | Dic 2026 | Rediseño del ciclo de servicio, reglas, adopción; reporta también al COO"
+    },
+    {
+      "locator": "table:5/row:5",
+      "text": "Data Lead | 1 | Dic 2026 | Capa de datos, calidad de datos, privacidad desde el diseño"
+    },
+    {
+      "locator": "table:5/row:6",
+      "text": "Ingenieros de datos y ML | 4 | Ene 2027 | Integraciones, modelos de falla, visión y ruteo"
+    },
+    {
+      "locator": "table:5/row:7",
+      "text": "Conversational designer | 1 | Ene 2027 | Triage por WhatsApp y voz, esquemas de captura"
+    },
+    {
+      "locator": "table:5/row:8",
+      "text": "Change Lead | 1 | Dic 2026 | Comunicación, Academia IA, red de champions, mesa con el gremio"
+    },
+    {
+      "locator": "table:5/row:9",
+      "text": "Analista de valor | 1 | Ene 2027 | Grupo de control, medición de ahorro, tablero de la métrica norte"
+    },
+    {
+      "locator": "table:6/row:1",
+      "text": "Decisión | CEO | CAIO | COO | CFO | CTO/CIO | CISO | RR.HH. | Legales"
+    },
+    {
+      "locator": "table:6/row:2",
+      "text": "Plan Maestro y tramo 1 (ante el board) | A | R | C | C | C | C | I | I"
+    },
+    {
+      "locator": "table:6/row:3",
+      "text": "Liberación del tramo 2 en el gate de Q2 | A | R | C | C | I | C (veto) | I | I"
+    },
+    {
+      "locator": "table:6/row:4",
+      "text": "Política de autonomía de la IA | I | R | C | I | C | A | C | C"
+    },
+    {
+      "locator": "table:6/row:5",
+      "text": "Reglas de despacho y resolución remota | I | C | A | I | I | C | I | I"
+    },
+    {
+      "locator": "table:6/row:6",
+      "text": "Integración con FSM, CRM y telemetría | I | C | I | I | A | C | I | I"
+    },
+    {
+      "locator": "table:6/row:7",
+      "text": "Evaluación de impacto en privacidad por caso de uso | I | R | I | I | C | A | I | C"
+    },
+    {
+      "locator": "table:6/row:8",
+      "text": "Acuerdo con el gremio | I | C | C | I | I | I | A | C"
+    },
+    {
+      "locator": "table:6/row:9",
+      "text": "Contrato por resultado con contratistas | I | C | A | C | I | I | I | C"
+    },
+    {
+      "locator": "table:7/row:1",
+      "text": "Componente | Fórmula | USD M/año"
+    },
+    {
+      "locator": "table:7/row:2",
+      "text": "Revisitas | 434.000 revisitas (337.600 de reparación + 96.400 de instalación) × USD 32 | 13,9"
+    },
+    {
+      "locator": "table:7/row:3",
+      "text": "Visitas evitables | 181.000 visitas que se podían resolver a distancia × USD 32 | 5,8"
+    },
+    {
+      "locator": "table:7/row:4",
+      "text": "Visitas fallidas | 144.700 visitas con cliente ausente o sin acceso (8,1% de las visitas) × USD 32 | 4,6"
+    },
+    {
+      "locator": "table:7/row:5",
+      "text": "Bonificaciones | Créditos otorgados por fallas repetidas | 1,3"
+    },
+    {
+      "locator": "table:7/row:6",
+      "text": "Total |  | 25,6 (USD 2,1 M por mes; 45% del costo de campo)"
+    },
+    {
+      "locator": "table:8/row:1",
+      "text": "Palanca | Tipo | Cálculo | Visitas liberadas | USD M/año"
+    },
+    {
+      "locator": "table:8/row:2",
+      "text": "1 · Evitar la visita (triage remoto) | Ahorro | 10% de 1,21 M de órdenes = 120.000 visitas × USD 32, menos USD 2,5 de costo de resolución remota por caso | 120.000 | 3,54"
+    },
+    {
+      "locator": "table:8/row:3",
+      "text": "2 · Despachar bien | Ahorro | Visitas fallidas de 8% a 5%: 3 pp × 1,78 M = 53.500 visitas × USD 32 | 53.500 | 1,71"
+    },
+    {
+      "locator": "table:8/row:4",
+      "text": "3 · Llegar preparado y resolver a la primera | Ahorro | First-time fix de 75% a 82%: 115.000 revisitas de reparación evitadas × USD 32 | 115.000 | 3,68"
+    },
+    {
+      "locator": "table:8/row:5",
+      "text": "4 · Cerrar y aprender (control de calidad por foto) | Ahorro | Revisitas de instalación −25%: 24.000 × USD 32 | 24.000 | 0,77"
+    },
+    {
+      "locator": "table:8/row:6",
+      "text": "5 · Menos fallas repetidas | Ingreso | Bonificaciones −28%: USD 1,3 M × 28% | — | 0,36"
+    },
+    {
+      "locator": "table:8/row:7",
+      "text": "Beneficio bruto |  |  | 312.500 | 10,06"
+    },
+    {
+      "locator": "table:8/row:8",
+      "text": "Opex recurrente de la IA | Costo | Consumo de modelos 0,55 + nube y plataforma 0,35 + operación de modelos 0,40 |  | −1,30"
+    },
+    {
+      "locator": "table:8/row:9",
+      "text": "Beneficio neto a régimen |  |  |  | 8,76 ≈ 8,8"
+    },
+    {
+      "locator": "table:9/row:1",
+      "text": "Trimestre | Tramo | Qué compra (USD M) | Componentes | Contingencia 15% | Total"
+    },
+    {
+      "locator": "table:9/row:2",
+      "text": "Q1 · Cimientos | 1 | Datos 0,48 · aviso proactivo 0,15 · triage 0,15 · gobierno y equipo 0,40 | 1,18 | 0,17 | 1,35"
+    },
+    {
+      "locator": "table:9/row:3",
+      "text": "Q2 · Construcción | 1 | Datos 0,42 · copiloto y foto 0,36 · triage 0,30 · despacho 0,15 · dictado y equipo 0,46 | 1,69 | 0,25 | 1,94"
+    },
+    {
+      "locator": "table:9/row:4",
+      "text": "Q3 · Escalado | 2 | Despacho 0,25 · copiloto en todas las zonas 0,24 · datos y triage 0,27 · capacitación y equipo 0,36 | 1,12 | 0,17 | 1,29"
+    },
+    {
+      "locator": "table:9/row:5",
+      "text": "Q4 · Estabilización | 2 | Cierre de componentes 0,40 · capacitación y equipo 0,32 | 0,72 | 0,10 | 0,82"
+    },
+    {
+      "locator": "table:9/row:6",
+      "text": "Total |  |  | 4,71 | 0,69 | 5,40"
+    },
+    {
+      "locator": "table:10/row:1",
+      "text": "Concepto | 2027 | 2028 | 2029 | 2030 | 2031"
+    },
+    {
+      "locator": "table:10/row:2",
+      "text": "Beneficio bruto | 4,40 | 10,06 | 10,26 | 10,47 | 10,68"
+    },
+    {
+      "locator": "table:10/row:3",
+      "text": "Opex recurrente de la IA | −0,80 | −1,30 | −1,36 | −1,37 | −1,48"
+    },
+    {
+      "locator": "table:10/row:4",
+      "text": "Inversión única | −5,40 | — | — | — | —"
+    },
+    {
+      "locator": "table:10/row:5",
+      "text": "Reinversión (modelos y equipos) | — | — | −0,30 | −0,30 | −0,10"
+    },
+    {
+      "locator": "table:10/row:6",
+      "text": "Flujo antes de impuestos | −1,80 | 8,76 | 8,60 | 8,80 | 9,10"
+    },
+    {
+      "locator": "table:10/row:7",
+      "text": "Acumulado | −1,80 | 6,96 | 15,56 | 24,36 | 33,46"
+    },
+    {
+      "locator": "table:11/row:1",
+      "text": "Indicador | Antes de impuestos | Después de impuestos"
+    },
+    {
+      "locator": "table:11/row:2",
+      "text": "VAN 5 años (WACC 16% en USD) | USD 21,0 M | USD 13,4 M"
+    },
+    {
+      "locator": "table:11/row:3",
+      "text": "TIR | 276% | 175%"
+    },
+    {
+      "locator": "table:11/row:4",
+      "text": "Payback | Q1 2028 (mes 13 a 15) | Q1 2028"
+    },
+    {
+      "locator": "table:11/row:5",
+      "text": "Neto a 24 meses | USD +7,0 M | "
+    },
+    {
+      "locator": "table:12/row:1",
+      "text": "Si cambia… | Neto a régimen (USD M/año) | Neto 24 meses (USD M) | VAN 5 años (USD M)"
+    },
+    {
+      "locator": "table:12/row:2",
+      "text": "Caso base | 8,8 | 7,0 | 21,0"
+    },
+    {
+      "locator": "table:12/row:3",
+      "text": "Triage resuelve 15% de las órdenes (no 10%) | 10,5 | 9,5 | 26,5"
+    },
+    {
+      "locator": "table:12/row:4",
+      "text": "Triage resuelve 5% de las órdenes | 7,0 | 4,4 | 15,6"
+    },
+    {
+      "locator": "table:12/row:5",
+      "text": "First-time fix llega a 78% (no 82%) | 6,7 | 3,9 | 14,6"
+    },
+    {
+      "locator": "table:12/row:6",
+      "text": "Visitas fallidas bajan a 6% (no 5%) | 8,2 | 6,1 | 19,3"
+    },
+    {
+      "locator": "table:12/row:7",
+      "text": "Costo por visita USD 28 (no 32) | 7,5 | 5,2 | 17,2"
+    },
+    {
+      "locator": "table:12/row:8",
+      "text": "WACC 20% | 8,8 | 7,0 | 19,0"
+    },
+    {
+      "locator": "table:12/row:9",
+      "text": "Inversión y reinversión +30% | 8,8 | — | 19,4"
+    },
+    {
+      "locator": "table:13/row:1",
+      "text": "Dotación | Técnicos | Visitas por año | Rol en el plan"
+    },
+    {
+      "locator": "table:13/row:2",
+      "text": "Domicilio, planta propia | 400 | 714.000 | Capacidad fija: 7 visitas/día × 255 días; sin despidos"
+    },
+    {
+      "locator": "table:13/row:3",
+      "text": "Domicilio, terceros | 600 | 1.070.000 | Volumen variable: acá cae todo el ahorro"
+    },
+    {
+      "locator": "table:13/row:4",
+      "text": "Red, mantenimiento y supervisión | 500 | — | Fuera del alcance; de acá salen los curadores, para no restar visitas propias"
+    },
+    {
+      "locator": "table:13/row:5",
+      "text": "Total | 1.500 | 1.784.000 | 1.000 técnicos de domicilio × 7 × 255 = 1,78 M de visitas"
+    },
+    {
+      "locator": "table:14/row:1",
+      "text": "Indicador | Línea base | Q1 2027 | Q2 2027 | Q3 2027 | Q4 2027 | Cada Q de 2028"
+    },
+    {
+      "locator": "table:14/row:2",
+      "text": "Operativo |  |  |  |  |  | "
+    },
+    {
+      "locator": "table:14/row:3",
+      "text": "Visitas liberadas | — | 3.100 | 18.600 | 46.600 | 68.300 | 78.100"
+    },
+    {
+      "locator": "table:14/row:4",
+      "text": "Visitas de terceros | 267.500 | 264.400 | 248.900 | 220.900 | 199.200 | 189.400"
+    },
+    {
+      "locator": "table:14/row:5",
+      "text": "Técnicos de terceros equivalentes | 600 | 593 | 558 | 496 | 447 | 425"
+    },
+    {
+      "locator": "table:14/row:6",
+      "text": "Técnicos propios a 7 visitas/día | 400 | 400 | 400 | 400 | 400 | 400"
+    },
+    {
+      "locator": "table:14/row:7",
+      "text": "Visitas cada 100 órdenes resueltas | 148 | 146,9 | 141,8 | 132,5 | 125,3 | 122,1"
+    },
+    {
+      "locator": "table:14/row:8",
+      "text": "Órdenes resueltas por técnico y día | 4,73 | 4,76 | 4,94 | 5,28 | 5,59 | 5,74"
+    },
+    {
+      "locator": "table:14/row:9",
+      "text": "Métrica norte (USD por orden resuelta) | 47,3 | 47,3 | 46,0 | 43,2 | 41,2 | 40,3"
+    },
+    {
+      "locator": "table:14/row:10",
+      "text": "Financiero (USD M) |  |  |  |  |  | "
+    },
+    {
+      "locator": "table:14/row:11",
+      "text": "Factura de terceros | 8,56 | 8,46 | 7,96 | 7,07 | 6,37 | 6,06"
+    },
+    {
+      "locator": "table:14/row:12",
+      "text": "Ahorro neto en costo de campo | — | 0,10 | 0,58 | 1,45 | 2,12 | 2,43"
+    },
+    {
+      "locator": "table:14/row:13",
+      "text": "Ingreso: bonificaciones evitadas | — | 0,00 | 0,02 | 0,05 | 0,08 | 0,09"
+    },
+    {
+      "locator": "table:14/row:14",
+      "text": "Beneficio bruto incremental | — | 0,10 | 0,60 | 1,50 | 2,20 | 2,52"
+    },
+    {
+      "locator": "table:14/row:15",
+      "text": "Opex de la IA | — | −0,10 | −0,20 | −0,22 | −0,28 | −0,33"
+    },
+    {
+      "locator": "table:14/row:16",
+      "text": "Beneficio neto incremental | — | 0,00 | 0,40 | 1,28 | 1,92 | 2,19"
+    },
+    {
+      "locator": "table:14/row:17",
+      "text": "Inversión | — | −1,35 | −1,94 | −1,29 | −0,82 | —"
+    },
+    {
+      "locator": "table:14/row:18",
+      "text": "Flujo del trimestre | — | −1,35 | −1,54 | −0,01 | +1,10 | +2,19"
+    },
+    {
+      "locator": "table:14/row:19",
+      "text": "Flujo acumulado | — | −1,35 | −2,89 | −2,90 | −1,80 | +0,39 (Q1)"
+    },
+    {
+      "locator": "table:14/row:20",
+      "text": "ROI acumulado | — | −100% | −88% | −63% | −33% | +7% (Q1)"
+    },
+    {
+      "locator": "table:15/row:1",
+      "text": "Hito | Cuándo | Evidencia"
+    },
+    {
+      "locator": "table:15/row:2",
+      "text": "Primer ahorro en la factura de terceros | Q1 2027 | Aviso proactivo: menos visitas fallidas; −USD 0,10 M"
+    },
+    {
+      "locator": "table:15/row:3",
+      "text": "Primer ingreso (bonificaciones evitadas) | Q2 2027 | Menos fallas repetidas en el grupo tratado que en el control"
+    },
+    {
+      "locator": "table:15/row:4",
+      "text": "Beneficio neto positivo (beneficio > opex) | Q2 2027 | +USD 0,40 M en el trimestre"
+    },
+    {
+      "locator": "table:15/row:5",
+      "text": "Flujo trimestral positivo (beneficio > inversión) | Q4 2027 | +USD 1,10 M; Q3 cierra en equilibrio"
+    },
+    {
+      "locator": "table:15/row:6",
+      "text": "Payback: acumulado positivo | Q1 2028 | +USD 0,39 M; ROI acumulado +7%"
+    },
+    {
+      "locator": "table:15/row:7",
+      "text": "ROI acumulado mayor a 100% | Q4 2028 | 129%"
+    },
+    {
+      "locator": "table:16/row:1",
+      "text": "Capa | Componentes | Integra con | En producción"
+    },
+    {
+      "locator": "table:16/row:2",
+      "text": "1 · Canales | WhatsApp, voz (IVR), app del técnico, consola del despachador | Contact center, app de campo | Aviso Q1 · triage Q2 · app Q2"
+    },
+    {
+      "locator": "table:16/row:3",
+      "text": "2 · Agentes y modelos | Agente de triage, modelo de falla probable, Jev, copiloto con manuales, visión por foto, ruteo, voz a texto | Gateway (capa 4) | Escalonado Q1 a Q4"
+    },
+    {
+      "locator": "table:16/row:4",
+      "text": "3 · Datos | Capa unificada: órdenes (FSM), cliente y contrato (CRM), telemetría de red y del equipo (ONT, decodificador), inventario, fotos, base de conocimiento | FSM, CRM, NMS, inventario | FSM y CRM Q1 · telemetría Q2 · inventario Q3"
+    },
+    {
+      "locator": "table:16/row:5",
+      "text": "4 · Plataforma y control | Gateway multiproveedor de modelos, motor de reglas, registro de consentimientos, trazabilidad, monitoreo, MLOps | Todas | Q1"
+    },
+    {
+      "locator": "table:17/row:1",
+      "text": "Campo | Contenido"
+    },
+    {
+      "locator": "table:17/row:2",
+      "text": "Entrada | ID de cliente seudonimizado, ID de orden, JSON de captura, variables del modelo, versión de los modelos, estado del consentimiento"
+    },
+    {
+      "locator": "table:17/row:3",
+      "text": "Salida | Opción elegida, explicación (SHAP + razón en texto), versión de las reglas aplicadas, si la regla anuló a la IA"
+    },
+    {
+      "locator": "table:17/row:4",
+      "text": "Actor | IA sola, IA con aprobación humana (quién) o persona"
+    },
+    {
+      "locator": "table:17/row:5",
+      "text": "Marca de tiempo | Captura, decisión, ejecución y cierre de la orden"
+    },
+    {
+      "locator": "table:17/row:6",
+      "text": "Resultado | ¿Se resolvió? ¿Hubo re-reclamo a 7 días? ¿Pertenece al grupo de control?"
+    },
+    {
+      "locator": "table:18/row:1",
+      "text": "Entidad | Clave | Se relaciona con"
+    },
+    {
+      "locator": "table:18/row:2",
+      "text": "Cliente | id_cliente (seudonimizado fuera de CRM) | Contrato (1:N), Reclamo (1:N), Consentimiento (1:N)"
+    },
+    {
+      "locator": "table:18/row:3",
+      "text": "Contrato | id_contrato | Equipo instalado (1:N), Domicilio (N:1)"
+    },
+    {
+      "locator": "table:18/row:4",
+      "text": "Equipo instalado | serie | Telemetría (1:N), Orden (1:N)"
+    },
+    {
+      "locator": "table:18/row:5",
+      "text": "Reclamo | id_reclamo | Decisión Jev (1:1), Orden (1:0..N)"
+    },
+    {
+      "locator": "table:18/row:6",
+      "text": "Orden | id_orden | Visita (1:N), Técnico (N:1), Foto (1:N)"
+    },
+    {
+      "locator": "table:18/row:7",
+      "text": "Visita | id_visita | Resultado de cierre, informe dictado"
+    },
+    {
+      "locator": "table:18/row:8",
+      "text": "Técnico | id_técnico (propio o contratista) | Skills, zona; sin datos de desempeño individual para la IA"
+    },
+    {
+      "locator": "table:19/row:1",
+      "text": "Nivel | Qué puede hacer | Casos | Quién responde"
+    },
+    {
+      "locator": "table:19/row:2",
+      "text": "IA sola | Actuar y avisar | Aviso proactivo de llegada; guía remota al cliente; informe de cierre por dictado (el técnico lo confirma); reprogramación pedida por el cliente | Dueño del proceso (COO), con muestreo semanal"
+    },
+    {
+      "locator": "table:19/row:3",
+      "text": "IA propone, decide una persona | Recomendar; una persona aprueba o corrige | Despacho y ruteo (el despachador valida); no despachar cuando el cliente tuvo un reclamo en 30 días; acción remota sobre la red; cierre de orden con foto dudosa | Despachador o supervisor de zona"
+    },
+    {
+      "locator": "table:19/row:4",
+      "text": "Siempre una persona | La IA solo aporta información | Cierre de caso sin confirmación del cliente; compensaciones y bonificaciones; cliente que pide hablar con una persona; reclamos ante el ente regulador o defensa del consumidor; cualquier decisión sobre un técnico (asignación disciplinaria, evaluación, sanción) | Supervisor, Atención al Cliente o RR.HH."
+    },
+    {
+      "locator": "table:20/row:1",
+      "text": "Caso | IA | Despachador | Supervisor de zona | COO | Atención al Cliente | Comité de IA"
+    },
+    {
+      "locator": "table:20/row:2",
+      "text": "Reclamo con falla masiva conocida | Avisa al cliente | — | — | Define la regla | Informado | —"
+    },
+    {
+      "locator": "table:20/row:3",
+      "text": "Reclamo resoluble a distancia | Guía o acción remota | Valida la acción remota de red | — | — | Toma el caso si el cliente lo pide | —"
+    },
+    {
+      "locator": "table:20/row:4",
+      "text": "Reclamo que requiere visita | Propone técnico, ventana y ruta | Aprueba o corrige | Resuelve conflictos de agenda | — | — | —"
+    },
+    {
+      "locator": "table:20/row:5",
+      "text": "Cliente con 2 reclamos en 30 días | Propone | — | Decide | — | Ofrece contacto prioritario | —"
+    },
+    {
+      "locator": "table:20/row:6",
+      "text": "Compensación al cliente | Sugiere monto según política | — | — | — | Decide dentro de la política | Aprueba la política"
+    },
+    {
+      "locator": "table:20/row:7",
+      "text": "Cambio de reglas de despacho | — | Propone | Propone | Aprueba | Consultado | Informado"
+    },
+    {
+      "locator": "table:20/row:8",
+      "text": "Nuevo caso de uso o subida de autonomía | — | — | — | Propone | Consultado | Aprueba (CISO con veto)"
+    },
+    {
+      "locator": "table:21/row:1",
+      "text": "Gate | Fecha | Decide"
+    },
+    {
+      "locator": "table:21/row:2",
+      "text": "Gate Q1 | Fin de marzo 2027 | Pasar el triage de modo sombra a producción"
+    },
+    {
+      "locator": "table:21/row:3",
+      "text": "Gate Q2 | Fin de junio 2027 | Liberar el tramo 2 (recomendación al CEO y al CFO)"
+    },
+    {
+      "locator": "table:21/row:4",
+      "text": "Gate Q3 | Fin de septiembre 2027 | Escalar el despacho inteligente a toda la operación"
+    },
+    {
+      "locator": "table:21/row:5",
+      "text": "Gate Q4 | Diciembre 2027 | Fase 2 y segundo dominio para 2028"
+    },
+    {
+      "locator": "table:22/row:1",
+      "text": "Riesgo | Control | Dueño"
+    },
+    {
+      "locator": "table:22/row:2",
+      "text": "La IA no despacha a quien lo necesita | Reglas versionadas de Operaciones que anulan; un segundo reclamo en 30 días va siempre a visita o a una persona | COO"
+    },
+    {
+      "locator": "table:22/row:3",
+      "text": "Compensaciones decididas por la IA | La IA solo sugiere; decide una persona según la política de compensaciones | Atención al Cliente"
+    },
+    {
+      "locator": "table:22/row:4",
+      "text": "Manipulación del agente (prompt injection) | El agente no ejecuta acciones: solo produce un JSON validado; las acciones salen de Jev y de las reglas | CAIO + CISO"
+    },
+    {
+      "locator": "table:22/row:5",
+      "text": "Fuga de datos personales | Seudonimización y enmascaramiento de PII antes del gateway; sin entrenamiento con datos de Austral Conecta por contrato | CISO"
+    },
+    {
+      "locator": "table:22/row:6",
+      "text": "Abuso o costo descontrolado | Límites de uso por cliente y por minuto; tope de gasto mensual por proveedor en el gateway | PM técnico"
+    },
+    {
+      "locator": "table:22/row:7",
+      "text": "Fotos con terceros o documentos | Solo fotos del equipo; desenfoque automático de personas y documentos antes de guardar | Data Lead"
+    },
+    {
+      "locator": "table:22/row:8",
+      "text": "Vigilancia de técnicos | La ubicación se usa solo para operar el despacho, nunca para evaluar desempeño (acuerdo con el gremio) | RR.HH."
+    },
+    {
+      "locator": "table:22/row:9",
+      "text": "Falla de un proveedor | Gateway multiproveedor; respaldo ML + reglas | PM técnico"
+    },
+    {
+      "locator": "table:23/row:1",
+      "text": "Obligación | Cómo se cumple"
+    },
+    {
+      "locator": "table:23/row:2",
+      "text": "Base legal y consentimiento (art. 5) | El uso de telemetría para diagnosticar fallas se apoya en la prestación del servicio contratado; el canal de WhatsApp informa el uso de IA y pide consentimiento para fotos y para guardar la conversación"
+    },
+    {
+      "locator": "table:23/row:3",
+      "text": "Deber de información (art. 6) | Aviso en el primer mensaje: que conversa con una IA, para qué se usan los datos y cómo pedir una persona"
+    },
+    {
+      "locator": "table:23/row:4",
+      "text": "Finalidad y minimización (art. 4) | Datos de campo solo para resolver el reclamo; los modelos usan solo las variables del anexo C"
+    },
+    {
+      "locator": "table:23/row:5",
+      "text": "Seguridad y confidencialidad (arts. 9 y 10) | Cifrado, control de accesos y registro inmutable (abajo)"
+    },
+    {
+      "locator": "table:23/row:6",
+      "text": "Transferencia internacional (art. 12) | Proveedores de IA con cláusulas contractuales aprobadas por la autoridad de control; sin datos personales en el prompt"
+    },
+    {
+      "locator": "table:23/row:7",
+      "text": "Acceso, rectificación y supresión (arts. 14 y 16) | Procedimiento único con Legales; el registro de Jev permite responder qué datos se usaron en cada decisión"
+    },
+    {
+      "locator": "table:23/row:8",
+      "text": "Decisiones automatizadas (Convenio 108+, art. 9) | Derecho a no ser objeto de una decisión basada solo en tratamiento automatizado sin que se considere la opinión del titular, a conocer el razonamiento y a oponerse: el cliente puede pedir siempre una persona o una visita, y el registro de Jev explica cada decisión"
+    },
+    {
+      "locator": "table:23/row:9",
+      "text": "Notificación de incidentes (Convenio 108+) | Protocolo del CISO con aviso a la autoridad de control"
+    },
+    {
+      "locator": "table:23/row:10",
+      "text": "Privacidad desde el diseño y responsabilidad proactiva | Evaluación de impacto por caso de uso, firmada por el CISO y revisada por Legales antes de cada salida a producción"
+    },
+    {
+      "locator": "table:24/row:1",
+      "text": "Grupo | Qué cambia | Qué no cambia | Cómo se acompaña"
+    },
+    {
+      "locator": "table:24/row:2",
+      "text": "Técnicos propios | Briefing antes de cada orden, copiloto por voz, cierre por dictado (papeleo de 60 a 35 min/día) | Empleo, salario, convenio; la decisión técnica en el domicilio | Academia IA, champions por zona, acuerdo con el gremio"
+    },
+    {
+      "locator": "table:24/row:3",
+      "text": "Despachadores | Pasan de asignar a mano a supervisar las propuestas de la IA | Deciden el despacho (anexo D) | Rol nuevo de despachador supervisor, formación en Q2"
+    },
+    {
+      "locator": "table:24/row:4",
+      "text": "Contratistas | Menos visitas facturadas; transición a pago por orden resuelta | Acceso a la app y al copiloto desde 2028 | Plan de transición con aviso de 6 meses"
+    },
+    {
+      "locator": "table:24/row:5",
+      "text": "Atención al Cliente | Menos reclamos repetidos; el triage resuelve parte de los casos | Deciden compensaciones y toman los casos derivados | Formación en lectura del registro de Jev"
+    },
+    {
+      "locator": "table:24/row:6",
+      "text": "Supervisores de zona | Deciden los casos de reclamo repetido | Gestión de su equipo sin datos individuales de la IA | Tablero por zona, no por persona"
+    },
+    {
+      "locator": "table:25/row:1",
+      "text": "Trimestre | Acción | Meta"
+    },
+    {
+      "locator": "table:25/row:2",
+      "text": "Q1 | Comunicar el plan a las empresas contratistas; sin cambios contractuales | Sin conflicto abierto"
+    },
+    {
+      "locator": "table:25/row:3",
+      "text": "Q2 | Medir costo y calidad por contratista contra el grupo de control | Línea de base por empresa"
+    },
+    {
+      "locator": "table:25/row:4",
+      "text": "Q3 | Diseñar el contrato por orden resuelta: pago por orden cerrada sin revisita a 30 días + bonificación por first-time fix de la empresa | Borrador validado con Compras y Legales"
+    },
+    {
+      "locator": "table:25/row:5",
+      "text": "Q4 | Negociar con aviso de 6 meses; cláusula de transición acordada | Contratos firmados, vigentes desde mediados de 2028"
+    },
+    {
+      "locator": "table:25/row:6",
+      "text": "2028 | Contratistas en la app con briefing y copiloto | Mismo first-time fix que la planta propia"
+    },
+    {
+      "locator": "table:26/row:1",
+      "text": "Frente | Q1 | Q2 | Q3 | Q4"
+    },
+    {
+      "locator": "table:26/row:2",
+      "text": "Comunicación | Lanzamiento interno del CEO y el COO; reunión por zona; preguntas frecuentes | Resultados del piloto y del gate, contra grupo de control | Historias de técnicos en cada zona | Balance del año y plan 2028"
+    },
+    {
+      "locator": "table:26/row:3",
+      "text": "Formación (Academia IA) | IA básica para mandos; política de uso de IA generativa para toda la empresa | 20% de técnicos en copiloto; despachadores en supervisión | 60% de técnicos; curadores formados | 100% de la planta propia; plan para contratistas"
+    },
+    {
+      "locator": "table:26/row:4",
+      "text": "Red de champions | Un champion por zona elegido entre técnicos | Champions prueban el copiloto antes que nadie | Champions forman a su zona | Champions proponen la fase 2"
+    },
+    {
+      "locator": "table:26/row:5",
+      "text": "Experimentación | Canal para que técnicos propongan mejoras al copiloto | Revisión quincenal de propuestas; las adoptadas se reconocen públicamente | Hackatón con técnicos, curadores y equipo de datos | Premio anual a la mejor mejora de campo"
+    },
+    {
+      "locator": "table:26/row:6",
+      "text": "Incentivos | — | Reconocimiento por zona (nunca individual) | Bono por first-time fix de zona | Incorporado a objetivos 2028"
+    },
+    {
+      "locator": "table:26/row:7",
+      "text": "Resistencia | Mapa de preocupaciones por grupo | Pulso mensual de adopción y clima | Atención dedicada a zonas con baja adopción | Encuesta anual"
+    },
+    {
+      "locator": "table:27/row:1",
+      "text": " | Q1 2027 · Cimientos y quick win | Q2 2027 · Triage y piloto | Q3 2027 · Escalado | Q4 2027 · Régimen"
+    },
+    {
+      "locator": "table:27/row:2",
+      "text": "Técnico | Capa de datos con FSM y CRM integrados; gateway, registro de Jev y MLOps; aviso proactivo en producción; triage en modo sombra | Telemetría integrada; triage en producción por WhatsApp y voz; app del técnico con briefing y dictado; copiloto en una zona piloto | Copiloto y foto en todas las zonas; inventario integrado; despacho inteligente en piloto (control por zona y semana) | Despacho y ruteo en toda la operación; reentrenamiento mensual estable; piloto de mantenimiento predictivo"
+    },
+    {
+      "locator": "table:27/row:3",
+      "text": "Entregables | Política de autonomía y de uso de IA generativa; evaluación de impacto del aviso y del triage | Tablero de la métrica norte contra grupo de control; reglas de despacho v1 | Base de conocimiento curada; contrato por resultado en borrador | Cierre de cada componente; plan del segundo dominio"
+    },
+    {
+      "locator": "table:27/row:4",
+      "text": "Financiero (USD M) | Inversión 1,35 · beneficio bruto 0,1 · opex 0,10 | Inversión 1,94 · beneficio 0,6 · opex 0,20 | Inversión 1,29 · beneficio 1,5 · opex 0,22 | Inversión 0,82 · beneficio 2,2 · opex 0,28 · run-rate neto de salida 8,8/año"
+    },
+    {
+      "locator": "table:27/row:5",
+      "text": "Cultural | Comité de IA constituido; acuerdo con el gremio firmado; champions elegidos; lanzamiento interno | 20% de técnicos capacitados; despachador supervisor en la zona piloto | 60% de técnicos habilitados; curadores en funciones; hackatón de campo | 100% de la planta propia; contratos con contratistas negociados"
+    },
+    {
+      "locator": "table:27/row:6",
+      "text": "Gate (medible) | Visitas fallidas < 7%; triage en sombra acierta ≥ 80% contra el resultado real; acuerdo gremial y evaluación de impacto firmados | Libera el tramo 2: ver abajo | First-time fix ≥ 77% en zonas con copiloto, contra control; SLA de reparación sin deterioro | Métrica norte ≤ USD 42 por orden resuelta; guardas no peores que control; decisión de fase 2"
+    },
+    {
+      "locator": "table:28/row:1",
+      "text": "Escenario | Probabilidad | Supuesto | Neto a régimen (USD M/año) | Neto 24 meses (USD M) | VAN 5 años (USD M) | TIR | Payback"
+    },
+    {
+      "locator": "table:28/row:2",
+      "text": "Optimista | 25% | Beneficio bruto +30% | 11,8 | +11,3 | 30,3 | 452% | Q1 2028"
+    },
+    {
+      "locator": "table:28/row:3",
+      "text": "Base | 50% | Plan del anexo B | 8,8 | +7,0 | 21,0 | 276% | Q1 2028"
+    },
+    {
+      "locator": "table:28/row:4",
+      "text": "Pesimista | 25% | Mitad del beneficio bruto; +20% en inversión y opex | 3,5 | −1,8 | 3,7 | 48% | Q3 2029"
+    },
+    {
+      "locator": "table:29/row:1",
+      "text": "Escenario | Gatillo cuantitativo | Decisión preacordada | Quién decide"
+    },
+    {
+      "locator": "table:29/row:2",
+      "text": "Pesimista | En Q2: triage < 20%, re-reclamo a distancia > 1,1 veces el del control, o sobrecosto > 20% | No liberar el tramo 2 completo; concentrar en triage y aviso proactivo, las palancas de retorno más rápido; revisar en Q3 | Comité de IA; aprueban CEO y CFO"
+    },
+    {
+      "locator": "table:29/row:3",
+      "text": "Base | Indicadores dentro de ±15% de la rampa planificada | Seguir el roadmap; sumar contratistas a la app en 2028 | Comité de IA"
+    },
+    {
+      "locator": "table:29/row:4",
+      "text": "Optimista | En Q3: triage > 50% de los casos que atiende y first-time fix ≥ 82% | Adelantar a Q4 2027 el piloto de mantenimiento predictivo y la predicción de repuestos | Comité de IA; aprueba el CEO"
+    },
+    {
+      "locator": "table:30/row:1",
+      "text": "Política | Qué fija | Dueño | Detalle"
+    },
+    {
+      "locator": "table:30/row:2",
+      "text": "Autonomía de la IA | Qué hace la IA sola, qué propone y qué decide siempre una persona; cómo se sube o baja un caso de nivel | CAIO; aprueba el CISO | Anexo D"
+    },
+    {
+      "locator": "table:30/row:3",
+      "text": "Resolución remota y compensaciones | Límite de guía remota, derecho a visita, umbrales de compensación, prohibición de que la IA prometa u otorgue | COO y Atención al Cliente | Anexo E"
+    },
+    {
+      "locator": "table:30/row:4",
+      "text": "Datos y uso de IA generativa | Ley 25.326 y Convenio 108+, datos mínimos a proveedores, evaluación de impacto, uso interno de herramientas públicas | CISO y Legales | Anexo E"
+    },
+    {
+      "locator": "table:30/row:5",
+      "text": "Medición de valor | Grupo de control del 10%, cálculo del ahorro sobre facturas, tablero de la métrica norte | CAIO y CFO | Anexos B y E"
+    },
+    {
+      "locator": "table:31/row:1",
+      "text": "Semana | Acción | Responsable"
+    },
+    {
+      "locator": "table:31/row:2",
+      "text": "1 | Comunicación interna del CEO y el COO sobre el plan y el compromiso de no despidos | CEO, COO, Change Lead"
+    },
+    {
+      "locator": "table:31/row:3",
+      "text": "1 | Primera sesión del comité de IA; aprobación de su reglamento | CAIO"
+    },
+    {
+      "locator": "table:31/row:4",
+      "text": "1–2 | Apertura de la mesa con el gremio | RR.HH., Change Lead"
+    },
+    {
+      "locator": "table:31/row:5",
+      "text": "2 | Ofertas a PM técnico, PM de negocio, Data Lead y Change Lead | CAIO, RR.HH."
+    },
+    {
+      "locator": "table:31/row:6",
+      "text": "2–3 | Contratos con proveedores de modelos y gateway, con cláusulas de datos | CTO/CIO, Legales, CISO"
+    },
+    {
+      "locator": "table:31/row:7",
+      "text": "3 | Acceso del equipo a FSM y CRM; inicio de la capa de datos | CTO/CIO, Data Lead"
+    },
+    {
+      "locator": "table:31/row:8",
+      "text": "3–4 | Evaluación de impacto del aviso proactivo y del triage en modo sombra | CISO, Data Lead"
+    },
+    {
+      "locator": "table:31/row:9",
+      "text": "4 | Línea de base de la métrica norte y asignación del grupo de control | Analista de valor, CFO"
+    },
+    {
+      "locator": "table:31/row:10",
+      "text": "4 | Comunicación del plan a las empresas contratistas | COO, Compras"
+    }
+  ]
+}

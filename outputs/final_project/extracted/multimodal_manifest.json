@@ -1,0 +1,125 @@
+{
+  "created_utc": "2026-10-26T21:38:21.144531+00:00",
+  "source_dir": "E:\\UTN\\CAIO\\TP Final\\moe-comite-ia\\inputs\\final_project",
+  "sources": [
+    {
+      "id": "DOC-001",
+      "path": "contexto/caio-final-project-brief.md",
+      "format": ".md",
+      "sha256": "a5f6136e9f740e604c301974762c077c475c3319b31731b1af1eb3095d3de859",
+      "size_bytes": 7085,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-002",
+      "path": "contexto/caio-source-01-ibm.md",
+      "format": ".md",
+      "sha256": "1eccb2fcebe974620084de73c14ea04bb7e3a496fa2a61f8e2d685f8acc0ed83",
+      "size_bytes": 3690,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-003",
+      "path": "contexto/caio-source-02-wikipedia.md",
+      "format": ".md",
+      "sha256": "c63d0ffc83cc82a69c82bbfb0c7b6b950c6387f9f3571b2c5a25153191e3f63e",
+      "size_bytes": 2442,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-004",
+      "path": "contexto/caio-source-03-cio-evolution.md",
+      "format": ".md",
+      "sha256": "b852519ac6b95fada2fc444dc4584b55f70d7305e60befce1ff9f844c7918043",
+      "size_bytes": 4450,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-005",
+      "path": "contexto/caio-synthesis-and-evaluation-lens.md",
+      "format": ".md",
+      "sha256": "94c74a8e61e3ab52e21f45e258ac1b811d1fb1e3faee7e23c2acf9ac71353a88",
+      "size_bytes": 6910,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-006",
+      "path": "contexto/guia_entregable.md",
+      "format": ".md",
+      "sha256": "d209306d47404edbf99ac7b7228c81a32f8b817c0570de94935520c560c0fa60",
+      "size_bytes": 7234,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-007",
+      "path": "contexto/instrucciones_proyecto_claude.md",
+      "format": ".md",
+      "sha256": "7d9185308c4d62e3a0ef56413ed2a7d0a0ffd1b7e992b01091dc5843beeb124a",
+      "size_bytes": 16285,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 1,
+      "warnings": []
+    },
+    {
+      "id": "DOC-008",
+      "path": "proyecto/Anexos_CAIO vf.docx",
+      "format": ".docx",
+      "sha256": "fb297c19c7376246b72ed7d2ef976c1851353ec83265afa5be320afaf2365018",
+      "size_bytes": 97637,
+      "status": "PENDING_VISUAL_REVIEW",
+      "requires_visual_review": true,
+      "units_count": 425,
+      "warnings": [
+        "Contiene imágenes u objetos: validar visualmente, extracción textual insuficiente.",
+        "Revisar encabezados/pies, comentarios, cuadros de texto y diseños complejos en vista original."
+      ]
+    },
+    {
+      "id": "DOC-009",
+      "path": "proyecto/FieldOps_IA_modelo_financiero vf.xlsx",
+      "format": ".xlsx",
+      "sha256": "6b032ca9025072fa41a498b7bd0f22645b905b3f79c20a5e012607832e7a89a0",
+      "size_bytes": 38217,
+      "status": "PENDING_VISUAL_REVIEW",
+      "requires_visual_review": true,
+      "units_count": 285,
+      "warnings": [
+        "Valores calculados no recalculados; validar fórmulas, tablas dinámicas, gráficos, hojas ocultas, nombres y formato en la planilla original."
+      ]
+    },
+    {
+      "id": "DOC-010",
+      "path": "proyecto/FieldOps_IA_Plan_Maestro_CAIO vf.pdf",
+      "format": ".pdf",
+      "sha256": "92a56a7c20fd854596e887403ec01da5213dedee02d25d7b62a75980840c7f6c",
+      "size_bytes": 173765,
+      "status": "EXTRACTED_TEXT",
+      "requires_visual_review": false,
+      "units_count": 10,
+      "warnings": [
+        "Validar tablas, figuras y disposición visual del PDF."
+      ]
+    }
+  ],
+  "gate": "BLOCKED_DOCUMENT_REVIEW",
+  "disclaimer": "Extraer texto no equivale a entender ni verificar el contenido. El gate semántico y de contexto es independiente."
+}

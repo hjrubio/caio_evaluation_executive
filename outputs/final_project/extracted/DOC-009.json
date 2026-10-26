@@ -1,0 +1,1157 @@
+{
+  "source": {
+    "id": "DOC-009",
+    "path": "proyecto/FieldOps_IA_modelo_financiero vf.xlsx",
+    "format": ".xlsx",
+    "sha256": "6b032ca9025072fa41a498b7bd0f22645b905b3f79c20a5e012607832e7a89a0",
+    "size_bytes": 38217,
+    "status": "PENDING_VISUAL_REVIEW",
+    "requires_visual_review": true,
+    "units_count": 285,
+    "warnings": [
+      "Valores calculados no recalculados; validar fórmulas, tablas dinámicas, gráficos, hojas ocultas, nombres y formato en la planilla original."
+    ]
+  },
+  "units": [
+    {
+      "locator": "sheet:1/row:1",
+      "text": "A1=Modelo financiero – FieldOps IA (Austral Conecta S.A., empresa ficticia)"
+    },
+    {
+      "locator": "sheet:1/row:2",
+      "text": "A2=Plan Maestro CAIO a 12 meses · Versión alineada a los Anexos A–I (fuente mandatoria de cifras) · 24/10/2026"
+    },
+    {
+      "locator": "sheet:1/row:4",
+      "text": "A4=Propósito | B4=Sustentar el caso de negocio de la presentación al board (slides 1, 3, 4, 5, 8, 9 y 10) y el anexo B. Todas las cifras coinciden con los Anexos A–I."
+    },
+    {
+      "locator": "sheet:1/row:5",
+      "text": "A5=Moneda | B5=USD constantes. Montos en USD millones (USD M) salvo que el encabezado diga otra cosa. Flujos antes de impuestos salvo aclaración."
+    },
+    {
+      "locator": "sheet:1/row:6",
+      "text": "A6=Premisa de personas | B6=Sin despidos de planta propia: los 400 técnicos propios mantienen 7 visitas por día. Todo el ahorro cae en el volumen facturado por terceros (contratistas de campo)."
+    },
+    {
+      "locator": "sheet:1/row:8",
+      "text": "A8=Hojas"
+    },
+    {
+      "locator": "sheet:1/row:9",
+      "text": "A9=Supuestos | B9=Todos los datos de entrada, con su origen. Es la única hoja que se edita."
+    },
+    {
+      "locator": "sheet:1/row:10",
+      "text": "A10=Línea base | B10=Dotación, visitas, costo de campo, pérdida actual (USD 25,6 M/año), métrica norte y RPU de partida."
+    },
+    {
+      "locator": "sheet:1/row:11",
+      "text": "A11=Beneficios | B11=Las 5 palancas a régimen separadas en ahorro e ingreso, puente bruto → neto y beneficio bruto planificado por trimestre."
+    },
+    {
+      "locator": "sheet:1/row:12",
+      "text": "A12=Inversión | B12=Inversión 2027 por trimestre, componente, contingencia y tramo; opex de la IA por trimestre."
+    },
+    {
+      "locator": "sheet:1/row:13",
+      "text": "A13=Flujo y ROI | B13=Estimación trimestral incremental contra la línea base: visitas y técnicos de terceros, factura de terceros, ahorro, ingreso, flujo, ROI acumulado y payback."
+    },
+    {
+      "locator": "sheet:1/row:14",
+      "text": "A14=Proyección 5 años | B14=Flujos 2027–2031, VAN y TIR antes y después de impuestos (flujos trimestrales descontados a mitad de período)."
+    },
+    {
+      "locator": "sheet:1/row:15",
+      "text": "A15=Escenarios | B15=Pesimista, base y optimista con probabilidad, VAN, TIR, payback, gatillos y decisiones; costo de esperar."
+    },
+    {
+      "locator": "sheet:1/row:16",
+      "text": "A16=Sensibilidad | B16=Impacto de los supuestos clave sobre neto a régimen, neto a 24 meses y VAN."
+    },
+    {
+      "locator": "sheet:1/row:17",
+      "text": "A17=KPIs | B17=Métrica norte, guardas y KPIs operativos: línea base vs. meta a régimen; gate de Q2."
+    },
+    {
+      "locator": "sheet:1/row:19",
+      "text": "A19=Convención de colores | B19=Texto azul = dato de entrada editable · Texto negro = fórmula · Texto verde = vínculo a otra hoja · Fondo amarillo = supuesto clave."
+    },
+    {
+      "locator": "sheet:1/row:20",
+      "text": "A20=Horizonte | B20=Q1–Q4 2027 = plan de 12 meses. 2028 = primer año a régimen. 2029–2031 = proyección para VAN y TIR."
+    },
+    {
+      "locator": "sheet:2/row:1",
+      "text": "A1=Supuestos del modelo"
+    },
+    {
+      "locator": "sheet:2/row:2",
+      "text": "A2=Única hoja de entrada. Texto azul = editable; amarillo = supuesto clave."
+    },
+    {
+      "locator": "sheet:2/row:3",
+      "text": "A3=Supuesto | B3=Valor | C3=Unidad | D3=Origen | E3=Comentario"
+    },
+    {
+      "locator": "sheet:2/row:4",
+      "text": "A4=1. Dotación y operación de campo"
+    },
+    {
+      "locator": "sheet:2/row:5",
+      "text": "A5=Técnicos totales | B5=1500 | C5=técnicos | D5=Definición del caso"
+    },
+    {
+      "locator": "sheet:2/row:6",
+      "text": "A6=Técnicos que hacen visitas a domicilio | B6=1000 | C6=técnicos | D6=Anexo B | E6=El resto (500) hace red, mantenimiento y supervisión; de ahí salen los curadores."
+    },
+    {
+      "locator": "sheet:2/row:7",
+      "text": "A7=Técnicos de domicilio de planta propia | B7=400 | C7=técnicos | D7=Anexo B | E7=Capacidad fija: no se reduce (sin despidos)."
+    },
+    {
+      "locator": "sheet:2/row:8",
+      "text": "A8=Técnicos de domicilio de terceros (contratistas) | B8=FORMULA(B6-B7) cached=600 | C8=técnicos | D8=Fórmula | E8=Volumen variable: acá cae todo el ahorro."
+    },
+    {
+      "locator": "sheet:2/row:9",
+      "text": "A9=Visitas por técnico y día (tope país) | B9=7 | C9=visitas/día | D9=Definición del caso | E9=Dato de la operación."
+    },
+    {
+      "locator": "sheet:2/row:10",
+      "text": "A10=Días hábiles por año | B10=255 | C10=días | D10=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:11",
+      "text": "A11=Visitas anuales (base 2026) | B11=1784000 | C11=visitas | D11=Anexo B | E11=≈ 1.000 técnicos × 7 × 255 = 1,785 M; se usa el registro del FSM."
+    },
+    {
+      "locator": "sheet:2/row:12",
+      "text": "A12=Órdenes resueltas por año (base 2026) | B12=1205600 | C12=órdenes | D12=Anexo B | E12=148 visitas cada 100 órdenes resueltas."
+    },
+    {
+      "locator": "sheet:2/row:13",
+      "text": "A13=Costo de campo anual (base 2026) | B13=57 | C13=USD M | D13=Anexo B | E13=Propio + terceros."
+    },
+    {
+      "locator": "sheet:2/row:14",
+      "text": "A14=Costo por visita (propia o tercerizada) | B14=32 | C14=USD/visita | D14=Anexo B | E14=Tarifa del contratista; costo evitable de cada visita que no se hace."
+    },
+    {
+      "locator": "sheet:2/row:15",
+      "text": "A15=Costo por caso resuelto a distancia | B15=2.5 | C15=USD/caso | D15=Anexo B | E15=IA conversacional, consultas a la red y supervisión."
+    },
+    {
+      "locator": "sheet:2/row:16",
+      "text": "A16=Abonados | B16=1.6 | C16=millones | D16=Definición del caso"
+    },
+    {
+      "locator": "sheet:2/row:17",
+      "text": "A17=ARPU mensual | B17=22 | C17=USD/mes | D17=Anexo B | E17=Una reparación que falla a la primera cuesta USD 59 = 2,7 meses de ARPU."
+    },
+    {
+      "locator": "sheet:2/row:18",
+      "text": "A18=Costo de una reparación que falla a la primera | B18=59 | C18=USD | D18=Anexo B | E18=Revisita + contactos adicionales + bonificación."
+    },
+    {
+      "locator": "sheet:2/row:19",
+      "text": "A19=2. Pérdida actual (diagnóstico)"
+    },
+    {
+      "locator": "sheet:2/row:20",
+      "text": "A20=Revisitas de reparación (falla a la primera) | B20=337600 | C20=visitas/año | D20=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:21",
+      "text": "A21=Revisitas de instalación (mal hechas) | B21=96400 | C21=visitas/año | D21=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:22",
+      "text": "A22=Visitas que se podían resolver a distancia | B22=181000 | C22=visitas/año | D22=Anexo B | E22=Muestra de cierres: reinicios, configuración, fallas de red conocidas."
+    },
+    {
+      "locator": "sheet:2/row:23",
+      "text": "A23=Visitas fallidas (cliente ausente o sin acceso) | B23=144700 | C23=visitas/año | D23=Anexo B | E23=8,1% de las visitas."
+    },
+    {
+      "locator": "sheet:2/row:24",
+      "text": "A24=Bonificaciones por fallas repetidas | B24=1.3 | C24=USD M/año | D24=Anexo B | E24=Ingreso resignado."
+    },
+    {
+      "locator": "sheet:2/row:25",
+      "text": "A25=3. Palancas a régimen (escenario base, ya neto del grupo de control)"
+    },
+    {
+      "locator": "sheet:2/row:26",
+      "text": "A26=Triage: % de reclamos de reparación que atiende | B26=0.5 | C26=% | D26=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:27",
+      "text": "A27=Triage: % de los atendidos que resuelve sin visita | B27=0.2 | C27=% | D27=Anexo B | E27=Es también la condición de volumen del gate de Q2."
+    },
+    {
+      "locator": "sheet:2/row:28",
+      "text": "A28=Órdenes resueltas sin visita | B28=FORMULA(B26*B27) cached=0.1 | C28=% órdenes | D28=Fórmula | E28=Contención: 50% × 20% = 10%."
+    },
+    {
+      "locator": "sheet:2/row:29",
+      "text": "A29=Visitas fallidas: línea base (redondeo) | B29=0.08 | C29=% visitas | D29=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:30",
+      "text": "A30=Visitas fallidas: meta | B30=0.05 | C30=% visitas | D30=Anexo B | E30=Ventana de 20 min y aviso proactivo."
+    },
+    {
+      "locator": "sheet:2/row:31",
+      "text": "A31=First-time fix: línea base | B31=0.75 | C31=% | D31=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:32",
+      "text": "A32=First-time fix: meta | B32=0.82 | C32=% | D32=Anexo B | E32=Briefing + copiloto + foto."
+    },
+    {
+      "locator": "sheet:2/row:33",
+      "text": "A33=Revisitas de reparación evitadas (75% → 82%) | B33=115000 | C33=visitas/año | D33=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:34",
+      "text": "A34=Reducción de revisitas de instalación | B34=0.25 | C34=% | D34=Anexo B | E34=Control de calidad por foto."
+    },
+    {
+      "locator": "sheet:2/row:35",
+      "text": "A35=Reducción de bonificaciones | B35=0.28 | C35=% | D35=Anexo B | E35=Menos fallas repetidas."
+    },
+    {
+      "locator": "sheet:2/row:36",
+      "text": "A36=Grupo de control permanente | B36=0.1 | C36=% reclamos | D36=Anexo E | E36=Ya descontado de los beneficios."
+    },
+    {
+      "locator": "sheet:2/row:37",
+      "text": "A37=4. Opex recurrente de la IA a régimen (2028)"
+    },
+    {
+      "locator": "sheet:2/row:38",
+      "text": "A38=Consumo de modelos | B38=0.55 | C38=USD M/año | D38=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:39",
+      "text": "A39=Nube y plataforma | B39=0.35 | C39=USD M/año | D39=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:40",
+      "text": "A40=Operación de modelos (MLOps) | B40=0.4 | C40=USD M/año | D40=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:41",
+      "text": "A41=5. Proyección y evaluación financiera"
+    },
+    {
+      "locator": "sheet:2/row:42",
+      "text": "A42=Tasa de descuento (WACC en USD) | B42=0.16 | C42=% anual | D42=Anexo B | E42=Incluye riesgo país."
+    },
+    {
+      "locator": "sheet:2/row:43",
+      "text": "A43=Crecimiento anual del beneficio bruto desde 2029 | B43=0.02 | C43=% anual | D43=Anexo B | E43=Crece con la base de abonados."
+    },
+    {
+      "locator": "sheet:2/row:44",
+      "text": "A44=Impuesto a las ganancias | B44=0.35 | C44=% | D44=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:45",
+      "text": "A45=Años de amortización de la inversión | B45=3 | C45=años | D45=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:46",
+      "text": "A46=Opex de la IA 2029 | B46=1.36 | C46=USD M | D46=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:47",
+      "text": "A47=Opex de la IA 2030 | B47=1.37 | C47=USD M | D47=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:48",
+      "text": "A48=Opex de la IA 2031 | B48=1.48 | C48=USD M | D48=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:49",
+      "text": "A49=Reinversión 2029 (modelos y equipos) | B49=0.3 | C49=USD M | D49=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:50",
+      "text": "A50=Reinversión 2030 | B50=0.3 | C50=USD M | D50=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:51",
+      "text": "A51=Reinversión 2031 | B51=0.1 | C51=USD M | D51=Anexo B"
+    },
+    {
+      "locator": "sheet:2/row:52",
+      "text": "A52=6. Escenarios"
+    },
+    {
+      "locator": "sheet:2/row:53",
+      "text": "A53=Pesimista: probabilidad | B53=0.25 | C53=% | D53=Anexo H"
+    },
+    {
+      "locator": "sheet:2/row:54",
+      "text": "A54=Pesimista: factor de beneficio | B54=0.5 | C54=x | D54=Anexo H | E54=Mitad del beneficio bruto."
+    },
+    {
+      "locator": "sheet:2/row:55",
+      "text": "A55=Pesimista: factor de costo (inversión, opex, reinversión) | B55=1.2 | C55=x | D55=Anexo H | E55=+20%."
+    },
+    {
+      "locator": "sheet:2/row:56",
+      "text": "A56=Base: probabilidad | B56=0.5 | C56=% | D56=Anexo H"
+    },
+    {
+      "locator": "sheet:2/row:57",
+      "text": "A57=Optimista: probabilidad | B57=0.25 | C57=% | D57=Anexo H"
+    },
+    {
+      "locator": "sheet:2/row:58",
+      "text": "A58=Optimista: factor de beneficio | B58=1.3 | C58=x | D58=Anexo H | E58=+30%."
+    },
+    {
+      "locator": "sheet:2/row:59",
+      "text": "A59=Optimista: factor de costo | B59=1 | C59=x | D59=Anexo H"
+    },
+    {
+      "locator": "sheet:2/row:61",
+      "text": "A61=Control: probabilidades suman 100% | B61=FORMULA($B$53+$B$56+$B$57) cached=1"
+    },
+    {
+      "locator": "sheet:3/row:1",
+      "text": "A1=Línea base: operación actual (2026, antes de la IA)"
+    },
+    {
+      "locator": "sheet:3/row:3",
+      "text": "A3=Indicador | B3=Valor | C3=Cálculo"
+    },
+    {
+      "locator": "sheet:3/row:4",
+      "text": "A4=Dotación y visitas"
+    },
+    {
+      "locator": "sheet:3/row:5",
+      "text": "A5=Técnicos propios de domicilio | B5=FORMULA(Supuestos!$B$7) cached=400"
+    },
+    {
+      "locator": "sheet:3/row:6",
+      "text": "A6=Técnicos de terceros de domicilio | B6=FORMULA(Supuestos!$B$8) cached=600"
+    },
+    {
+      "locator": "sheet:3/row:7",
+      "text": "A7=Visitas por año de planta propia | B7=FORMULA(Supuestos!$B$7*Supuestos!$B$9*Supuestos!$B$10) cached=714000 | C7=400 × 7 × 255"
+    },
+    {
+      "locator": "sheet:3/row:8",
+      "text": "A8=Visitas por año de terceros | B8=FORMULA(Supuestos!$B$11-B7) cached=1070000 | C8=Visitas totales − propias"
+    },
+    {
+      "locator": "sheet:3/row:9",
+      "text": "A9=Participación de terceros en las visitas | B9=FORMULA(B8/Supuestos!$B$11) cached=0.599775784753363"
+    },
+    {
+      "locator": "sheet:3/row:10",
+      "text": "A10=Factura anual de terceros (USD M) | B10=FORMULA(B8*Supuestos!$B$14/10^6) cached=34.24 | C10=Visitas de terceros × USD 32"
+    },
+    {
+      "locator": "sheet:3/row:11",
+      "text": "A11=Visitas cada 100 órdenes resueltas | B11=FORMULA(Supuestos!$B$11/Supuestos!$B$12*100) cached=147.976111479761"
+    },
+    {
+      "locator": "sheet:3/row:12",
+      "text": "A12=Órdenes resueltas por técnico y día | B12=FORMULA(Supuestos!$B$12/(Supuestos!$B$6*Supuestos!$B$10)) cached=4.7278431372549"
+    },
+    {
+      "locator": "sheet:3/row:14",
+      "text": "A14=Pérdida actual (USD M/año)"
+    },
+    {
+      "locator": "sheet:3/row:15",
+      "text": "A15=Revisitas (reparación + instalación) | B15=FORMULA((Supuestos!$B$20+Supuestos!$B$21)*Supuestos!$B$14/10^6) cached=13.888 | C15=434.000 × USD 32"
+    },
+    {
+      "locator": "sheet:3/row:16",
+      "text": "A16=Visitas evitables (resolubles a distancia) | B16=FORMULA(Supuestos!$B$22*Supuestos!$B$14/10^6) cached=5.792 | C16=181.000 × USD 32"
+    },
+    {
+      "locator": "sheet:3/row:17",
+      "text": "A17=Visitas fallidas | B17=FORMULA(Supuestos!$B$23*Supuestos!$B$14/10^6) cached=4.6304 | C17=144.700 × USD 32"
+    },
+    {
+      "locator": "sheet:3/row:18",
+      "text": "A18=Bonificaciones por fallas repetidas | B18=FORMULA(Supuestos!$B$24) cached=1.3"
+    },
+    {
+      "locator": "sheet:3/row:19",
+      "text": "A19=Pérdida total anual | B19=FORMULA(SUM(B15:B18)) cached=25.6104"
+    },
+    {
+      "locator": "sheet:3/row:20",
+      "text": "A20=Pérdida mensual | B20=FORMULA(B19/12) cached=2.1342"
+    },
+    {
+      "locator": "sheet:3/row:21",
+      "text": "A21=Pérdida como % del costo de campo | B21=FORMULA(B19/Supuestos!$B$13) cached=0.449305263157895"
+    },
+    {
+      "locator": "sheet:3/row:22",
+      "text": "A22=Revisitas totales por año | B22=FORMULA(Supuestos!$B$20+Supuestos!$B$21) cached=434000"
+    },
+    {
+      "locator": "sheet:3/row:23",
+      "text": "A23=Costo de las revisitas como % del costo de campo | B23=FORMULA(B15/Supuestos!$B$13) cached=0.243649122807018"
+    },
+    {
+      "locator": "sheet:3/row:25",
+      "text": "A25=Métrica norte y valor por abonado"
+    },
+    {
+      "locator": "sheet:3/row:26",
+      "text": "A26=MÉTRICA NORTE: costo de campo por orden resuelta (USD) | B26=FORMULA(Supuestos!$B$13*10^6/Supuestos!$B$12) cached=47.2793629727936 | C26=Costo de campo / órdenes resueltas"
+    },
+    {
+      "locator": "sheet:3/row:27",
+      "text": "A27=Costo de campo por abonado (USD/mes) | B27=FORMULA(Supuestos!$B$13/Supuestos!$B$16/12) cached=2.96875"
+    },
+    {
+      "locator": "sheet:3/row:28",
+      "text": "A28=Bonificaciones por abonado (USD/mes) | B28=FORMULA(Supuestos!$B$24/Supuestos!$B$16/12) cached=0.0677083333333333"
+    },
+    {
+      "locator": "sheet:3/row:29",
+      "text": "A29=RPU neto de campo (USD/abonado/mes) | B29=FORMULA(Supuestos!$B$17-B27-B28) cached=18.9635416666667 | C29=ARPU − costo de campo − bonificaciones"
+    },
+    {
+      "locator": "sheet:3/row:30",
+      "text": "A30=Meses de ARPU que se come una reparación fallida | B30=FORMULA(Supuestos!$B$18/Supuestos!$B$17) cached=2.68181818181818"
+    },
+    {
+      "locator": "sheet:4/row:1",
+      "text": "A1=Beneficios a régimen por palanca (USD M/año) y beneficio planificado por trimestre"
+    },
+    {
+      "locator": "sheet:4/row:2",
+      "text": "A2=Cifras netas del grupo de control del 10%."
+    },
+    {
+      "locator": "sheet:4/row:3",
+      "text": "A3=Palanca | B3=Tipo | C3=Visitas liberadas/año | D3=USD M/año | E3=Cálculo"
+    },
+    {
+      "locator": "sheet:4/row:4",
+      "text": "A4=1 · Evitar la visita (triage remoto) | B4=Ahorro | C4=FORMULA(ROUND(Supuestos!$B$12*Supuestos!$B$28,-4)) cached=120000 | D4=FORMULA(C4*(Supuestos!$B$14-Supuestos!$B$15)/10^6) cached=3.54 | E4=10% de las órdenes × (USD 32 − USD 2,5 de resolución remota)"
+    },
+    {
+      "locator": "sheet:4/row:5",
+      "text": "A5=2 · Despachar bien (visitas fallidas 8% → 5%) | B5=Ahorro | C5=FORMULA(ROUND(Supuestos!$B$11*(Supuestos!$B$29-Supuestos!$B$30),-2)) cached=53500 | D5=FORMULA(C5*Supuestos!$B$14/10^6) cached=1.712 | E5=3 pp × 1,78 M visitas × USD 32"
+    },
+    {
+      "locator": "sheet:4/row:6",
+      "text": "A6=3 · Llegar preparado y resolver a la primera (FTF 75% → 82%) | B6=Ahorro | C6=FORMULA(Supuestos!$B$33) cached=115000 | D6=FORMULA(C6*Supuestos!$B$14/10^6) cached=3.68 | E6=Revisitas de reparación evitadas × USD 32"
+    },
+    {
+      "locator": "sheet:4/row:7",
+      "text": "A7=4 · Cerrar y aprender (control de calidad por foto) | B7=Ahorro | C7=FORMULA(ROUND(Supuestos!$B$21*Supuestos!$B$34,-3)) cached=24000 | D7=FORMULA(C7*Supuestos!$B$14/10^6) cached=0.768 | E7=Revisitas de instalación −25% × USD 32"
+    },
+    {
+      "locator": "sheet:4/row:8",
+      "text": "A8=5 · Menos fallas repetidas (bonificaciones evitadas) | B8=Ingreso | D8=FORMULA(Supuestos!$B$24*Supuestos!$B$35) cached=0.364 | E8=USD 1,3 M × 28%"
+    },
+    {
+      "locator": "sheet:4/row:9",
+      "text": "A9=Ahorro en costo de campo (palancas 1 a 4) | C9=FORMULA(SUM(C4:C7)) cached=312500 | D9=FORMULA(SUM(D4:D7)) cached=9.7"
+    },
+    {
+      "locator": "sheet:4/row:10",
+      "text": "A10=Ingreso (palanca 5) | D10=FORMULA(D8) cached=0.364"
+    },
+    {
+      "locator": "sheet:4/row:11",
+      "text": "A11=Beneficio bruto a régimen | C11=FORMULA(C9) cached=312500 | D11=FORMULA(D9+D10) cached=10.064"
+    },
+    {
+      "locator": "sheet:4/row:12",
+      "text": "A12=Opex recurrente de la IA | D12=FORMULA(-(Supuestos!$B$38+Supuestos!$B$39+Supuestos!$B$40)) cached=-1.3"
+    },
+    {
+      "locator": "sheet:4/row:13",
+      "text": "A13=Beneficio neto a régimen | D13=FORMULA(D11+D12) cached=8.764"
+    },
+    {
+      "locator": "sheet:4/row:15",
+      "text": "A15=Ahorro como % del costo de campo | D15=FORMULA(D9/Supuestos!$B$13) cached=0.170175438596491"
+    },
+    {
+      "locator": "sheet:4/row:16",
+      "text": "A16=Captura bruta de la pérdida actual | D16=FORMULA(D11/'Línea base'!$B$19) cached=0.392965357823384"
+    },
+    {
+      "locator": "sheet:4/row:17",
+      "text": "A17=Captura neta de la pérdida actual | D17=FORMULA(D13/'Línea base'!$B$19) cached=0.34220472932871"
+    },
+    {
+      "locator": "sheet:4/row:18",
+      "text": "A18=Métrica norte a régimen (USD por orden resuelta) | D18=FORMULA((Supuestos!$B$13-D9-D12)*10^6/Supuestos!$B$12) cached=40.3118779031188"
+    },
+    {
+      "locator": "sheet:4/row:19",
+      "text": "A19=Variación de la métrica norte | D19=FORMULA(D18/'Línea base'!$B$26-1) cached=-0.147368421052632"
+    },
+    {
+      "locator": "sheet:4/row:20",
+      "text": "A20=RPU neto de campo a régimen (USD/abonado/mes) | D20=FORMULA('Línea base'!$B$29+D13/Supuestos!$B$16/12) cached=19.42"
+    },
+    {
+      "locator": "sheet:4/row:21",
+      "text": "A21=Técnicos de terceros equivalentes liberados | D21=FORMULA(C11/(Supuestos!$B$9*Supuestos!$B$10)) cached=175.070028011204"
+    },
+    {
+      "locator": "sheet:4/row:22",
+      "text": "A22=Reducción de la factura de terceros | D22=FORMULA(C11*Supuestos!$B$14/10^6/'Línea base'!$B$10) cached=0.292056074766355"
+    },
+    {
+      "locator": "sheet:4/row:23",
+      "text": "A23=Nota: la baja del papeleo (60 → 35 min/día) no se cuenta como beneficio: es tiempo, no factura."
+    },
+    {
+      "locator": "sheet:4/row:25",
+      "text": "A25=Beneficio bruto planificado por trimestre (USD M) · dato de entrada del roadmap (anexo G)"
+    },
+    {
+      "locator": "sheet:4/row:26",
+      "text": "A26=Concepto | B26=Q1 2027 | C26=Q2 2027 | D26=Q3 2027 | E26=Q4 2027 | F26=Q1 2028 | G26=Q2 2028 | H26=Q3 2028 | I26=Q4 2028"
+    },
+    {
+      "locator": "sheet:4/row:27",
+      "text": "A27=Beneficio bruto del trimestre | B27=0.1 | C27=0.6 | D27=1.5 | E27=2.2 | F27=FORMULA($D$11/4) cached=2.516 | G27=FORMULA($D$11/4) cached=2.516 | H27=FORMULA($D$11/4) cached=2.516 | I27=FORMULA($D$11/4) cached=2.516"
+    },
+    {
+      "locator": "sheet:4/row:28",
+      "text": "A28=Rampa: % del régimen trimestral | B28=FORMULA(B27/($D$11/4)) cached=0.0397456279809221 | C28=FORMULA(C27/($D$11/4)) cached=0.238473767885533 | D28=FORMULA(D27/($D$11/4)) cached=0.596184419713831 | E28=FORMULA(E27/($D$11/4)) cached=0.874403815580286 | F28=FORMULA(F27/($D$11/4)) cached=1 | G28=FORMULA(G27/($D$11/4)) cached=1 | H28=FORMULA(H27/($D$11/4)) cached=1 | I28=FORMULA(I27/($D$11/4)) cached=1"
+    },
+    {
+      "locator": "sheet:4/row:29",
+      "text": "A29=Rampa: Q1 aviso proactivo; Q2 triage en producción; Q3 copiloto y foto en todas las zonas; Q4 despacho en toda la operación."
+    },
+    {
+      "locator": "sheet:5/row:1",
+      "text": "A1=Inversión 2027 por trimestre y tramo, y opex de la IA (USD M)"
+    },
+    {
+      "locator": "sheet:5/row:3",
+      "text": "A3=Componente | B3=Q1 2027 | C3=Q2 2027 | D3=Q3 2027 | E3=Q4 2027 | F3=Total"
+    },
+    {
+      "locator": "sheet:5/row:4",
+      "text": "A4=Datos e integración | B4=0.48 | C4=0.42 | D4=0 | E4=0 | F4=FORMULA(SUM(B4:E4)) cached=0.9"
+    },
+    {
+      "locator": "sheet:5/row:5",
+      "text": "A5=Aviso proactivo | B5=0.15 | C5=0 | D5=0 | E5=0 | F5=FORMULA(SUM(B5:E5)) cached=0.15"
+    },
+    {
+      "locator": "sheet:5/row:6",
+      "text": "A6=Triage remoto | B6=0.15 | C6=0.3 | D6=0 | E6=0 | F6=FORMULA(SUM(B6:E6)) cached=0.45"
+    },
+    {
+      "locator": "sheet:5/row:7",
+      "text": "A7=Copiloto y visión por foto | B7=0 | C7=0.36 | D7=0 | E7=0 | F7=FORMULA(SUM(B7:E7)) cached=0.36"
+    },
+    {
+      "locator": "sheet:5/row:8",
+      "text": "A8=Despacho inteligente y ruteo | B8=0 | C8=0.15 | D8=0.25 | E8=0 | F8=FORMULA(SUM(B8:E8)) cached=0.4"
+    },
+    {
+      "locator": "sheet:5/row:9",
+      "text": "A9=Copiloto en todas las zonas | B9=0 | C9=0 | D9=0.24 | E9=0 | F9=FORMULA(SUM(B9:E9)) cached=0.24"
+    },
+    {
+      "locator": "sheet:5/row:10",
+      "text": "A10=Datos y triage (escalado) | B10=0 | C10=0 | D10=0.27 | E10=0 | F10=FORMULA(SUM(B10:E10)) cached=0.27"
+    },
+    {
+      "locator": "sheet:5/row:11",
+      "text": "A11=Cierre de componentes | B11=0 | C11=0 | D11=0 | E11=0.4 | F11=FORMULA(SUM(B11:E11)) cached=0.4"
+    },
+    {
+      "locator": "sheet:5/row:12",
+      "text": "A12=Gobierno, equipo, dictado, capacitación y cambio | B12=0.4 | C12=0.46 | D12=0.36 | E12=0.32 | F12=FORMULA(SUM(B12:E12)) cached=1.54"
+    },
+    {
+      "locator": "sheet:5/row:13",
+      "text": "A13=Subtotal componentes | B13=FORMULA(SUM(B4:B12)) cached=1.18 | C13=FORMULA(SUM(C4:C12)) cached=1.69 | D13=FORMULA(SUM(D4:D12)) cached=1.12 | E13=FORMULA(SUM(E4:E12)) cached=0.72 | F13=FORMULA(SUM(B13:E13)) cached=4.71"
+    },
+    {
+      "locator": "sheet:5/row:14",
+      "text": "A14=Contingencia asignada (≈15%) | B14=0.17 | C14=0.25 | D14=0.17 | E14=0.1 | F14=FORMULA(SUM(B14:E14)) cached=0.69"
+    },
+    {
+      "locator": "sheet:5/row:15",
+      "text": "A15=Inversión total del trimestre | B15=FORMULA(B13+B14) cached=1.35 | C15=FORMULA(C13+C14) cached=1.94 | D15=FORMULA(D13+D14) cached=1.29 | E15=FORMULA(E13+E14) cached=0.82 | F15=FORMULA(SUM(B15:E15)) cached=5.4"
+    },
+    {
+      "locator": "sheet:5/row:16",
+      "text": "A16=Contingencia / componentes | B16=FORMULA(B14/B13) cached=0.14406779661017 | C16=FORMULA(C14/C13) cached=0.14792899408284 | D16=FORMULA(D14/D13) cached=0.151785714285714 | E16=FORMULA(E14/E13) cached=0.138888888888889 | F16=FORMULA(F14/F13) cached=0.146496815286624"
+    },
+    {
+      "locator": "sheet:5/row:17",
+      "text": "A17=Tramo | B17=Tramo 1 | C17=Tramo 1 | D17=Tramo 2 | E17=Tramo 2"
+    },
+    {
+      "locator": "sheet:5/row:19",
+      "text": "A19=Tramo 1 (Q1 + Q2): se aprueba hoy | B19=FORMULA(B15+C15) cached=3.29"
+    },
+    {
+      "locator": "sheet:5/row:20",
+      "text": "A20=Tramo 2 (Q3 + Q4): atado al gate de Q2 | B20=FORMULA(D15+E15) cached=2.11"
+    },
+    {
+      "locator": "sheet:5/row:22",
+      "text": "A22=Inversión por tipo de gasto (USD M)"
+    },
+    {
+      "locator": "sheet:5/row:23",
+      "text": "A23=Tecnología y plataforma | B23=2"
+    },
+    {
+      "locator": "sheet:5/row:24",
+      "text": "A24=Datos | B24=1.4"
+    },
+    {
+      "locator": "sheet:5/row:25",
+      "text": "A25=Talento y equipo | B25=1.3"
+    },
+    {
+      "locator": "sheet:5/row:26",
+      "text": "A26=Capacitación y cambio | B26=0.7"
+    },
+    {
+      "locator": "sheet:5/row:27",
+      "text": "A27=Total (control contra la inversión total) | B27=FORMULA(SUM(B23:B26)) cached=5.4 | C27=FORMULA(IF(ROUND(B27-F15,2)=0,\"OK\",\"Revisar\")) cached=OK"
+    },
+    {
+      "locator": "sheet:5/row:29",
+      "text": "A29=Opex recurrente de la IA por trimestre (USD M)"
+    },
+    {
+      "locator": "sheet:5/row:30",
+      "text": "A30=Concepto | B30=Q1 2027 | C30=Q2 2027 | D30=Q3 2027 | E30=Q4 2027 | F30=Total 2027"
+    },
+    {
+      "locator": "sheet:5/row:31",
+      "text": "A31=Opex de la IA (consumo de modelos, nube, MLOps) | B31=0.1 | C31=0.2 | D31=0.22 | E31=0.28 | F31=FORMULA(SUM(B31:E31)) cached=0.8"
+    },
+    {
+      "locator": "sheet:5/row:32",
+      "text": "A32=Lo no usado de la contingencia vuelve al CFO; la administra el comité de IA."
+    },
+    {
+      "locator": "sheet:6/row:1",
+      "text": "A1=Estimación trimestral incremental contra la línea base (congelada en dic-2026)"
+    },
+    {
+      "locator": "sheet:6/row:2",
+      "text": "A2=Cada visita que la IA evita es una visita menos facturada por terceros. La planta propia mantiene 7 visitas por día."
+    },
+    {
+      "locator": "sheet:6/row:3",
+      "text": "A3=Indicador | B3=Línea base (Q) | C3=Q1 2027 | D3=Q2 2027 | E3=Q3 2027 | F3=Q4 2027 | G3=Q1 2028 | H3=Q2 2028 | I3=Q3 2028 | J3=Q4 2028 | K3=Total 24 meses"
+    },
+    {
+      "locator": "sheet:6/row:4",
+      "text": "A4=Operativo"
+    },
+    {
+      "locator": "sheet:6/row:5",
+      "text": "A5=Visitas liberadas | C5=FORMULA(Beneficios!$B$28*Beneficios!$C$11/4) cached=3105.12718600954 | D5=FORMULA(Beneficios!$C$28*Beneficios!$C$11/4) cached=18630.7631160572 | E5=FORMULA(Beneficios!$D$28*Beneficios!$C$11/4) cached=46576.9077901431 | F5=FORMULA(Beneficios!$E$28*Beneficios!$C$11/4) cached=68312.7980922099 | G5=FORMULA(Beneficios!$F$28*Beneficios!$C$11/4) cached=78125 | H5=FORMULA(Beneficios!$G$28*Beneficios!$C$11/4) cached=78125 | I5=FORMULA(Beneficios!$H$28*Beneficios!$C$11/4) cached=78125 | J5=FORMULA(Beneficios!$I$28*Beneficios!$C$11/4) cached=78125 | K5=FORMULA(SUM(C5:J5)) cached=449125.59618442"
+    },
+    {
+      "locator": "sheet:6/row:6",
+      "text": "A6=Visitas totales | B6=FORMULA(Supuestos!$B$11/4) cached=446000 | C6=FORMULA($B6-C5) cached=442894.87281399 | D6=FORMULA($B6-D5) cached=427369.236883943 | E6=FORMULA($B6-E5) cached=399423.092209857 | F6=FORMULA($B6-F5) cached=377687.20190779 | G6=FORMULA($B6-G5) cached=367875 | H6=FORMULA($B6-H5) cached=367875 | I6=FORMULA($B6-I5) cached=367875 | J6=FORMULA($B6-J5) cached=367875"
+    },
+    {
+      "locator": "sheet:6/row:7",
+      "text": "A7=Visitas de terceros | B7=FORMULA('Línea base'!$B$8/4) cached=267500 | C7=FORMULA($B7-C5) cached=264394.87281399 | D7=FORMULA($B7-D5) cached=248869.236883943 | E7=FORMULA($B7-E5) cached=220923.092209857 | F7=FORMULA($B7-F5) cached=199187.20190779 | G7=FORMULA($B7-G5) cached=189375 | H7=FORMULA($B7-H5) cached=189375 | I7=FORMULA($B7-I5) cached=189375 | J7=FORMULA($B7-J5) cached=189375"
+    },
+    {
+      "locator": "sheet:6/row:8",
+      "text": "A8=Técnicos de terceros equivalentes | B8=FORMULA(Supuestos!$B$8) cached=600 | C8=FORMULA($B8-C5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=593.041731796057 | D8=FORMULA($B8-D5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=558.250390776342 | E8=FORMULA($B8-E5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=495.625976940856 | F8=FORMULA($B8-F5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=446.918099513255 | G8=FORMULA($B8-G5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=424.929971988796 | H8=FORMULA($B8-H5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=424.929971988796 | I8=FORMULA($B8-I5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=424.929971988796 | J8=FORMULA($B8-J5/(Supuestos!$B$9*Supuestos!$B$10/4)) cached=424.929971988796"
+    },
+    {
+      "locator": "sheet:6/row:9",
+      "text": "A9=Técnicos propios a 7 visitas/día (sin despidos) | B9=FORMULA(Supuestos!$B$7) cached=400 | C9=FORMULA($B9) cached=400 | D9=FORMULA($B9) cached=400 | E9=FORMULA($B9) cached=400 | F9=FORMULA($B9) cached=400 | G9=FORMULA($B9) cached=400 | H9=FORMULA($B9) cached=400 | I9=FORMULA($B9) cached=400 | J9=FORMULA($B9) cached=400"
+    },
+    {
+      "locator": "sheet:6/row:10",
+      "text": "A10=Visitas cada 100 órdenes resueltas | B10=FORMULA('Línea base'!$B$11) cached=147.976111479761 | C10=FORMULA(C6/(Supuestos!$B$12/4)*100) cached=146.945876846049 | D10=FORMULA(D6/(Supuestos!$B$12/4)*100) cached=141.794703677486 | E10=FORMULA(E6/(Supuestos!$B$12/4)*100) cached=132.522591974073 | F10=FORMULA(F6/(Supuestos!$B$12/4)*100) cached=125.310949538086 | G10=FORMULA(G6/(Supuestos!$B$12/4)*100) cached=122.055408095554 | H10=FORMULA(H6/(Supuestos!$B$12/4)*100) cached=122.055408095554 | I10=FORMULA(I6/(Supuestos!$B$12/4)*100) cached=122.055408095554 | J10=FORMULA(J6/(Supuestos!$B$12/4)*100) cached=122.055408095554"
+    },
+    {
+      "locator": "sheet:6/row:11",
+      "text": "A11=Órdenes resueltas por técnico y día | B11=FORMULA('Línea base'!$B$12) cached=4.7278431372549 | C11=FORMULA(Supuestos!$B$9*100/C10) cached=4.76365866824131 | D11=FORMULA(Supuestos!$B$9*100/D10) cached=4.93671471391597 | E11=FORMULA(Supuestos!$B$9*100/E10) cached=5.28211823789975 | F11=FORMULA(Supuestos!$B$9*100/F10) cached=5.58610402826171 | G11=FORMULA(Supuestos!$B$9*100/G10) cached=5.73510023785253 | H11=FORMULA(Supuestos!$B$9*100/H10) cached=5.73510023785253 | I11=FORMULA(Supuestos!$B$9*100/I10) cached=5.73510023785253 | J11=FORMULA(Supuestos!$B$9*100/J10) cached=5.73510023785253"
+    },
+    {
+      "locator": "sheet:6/row:13",
+      "text": "A13=Financiero (USD M)"
+    },
+    {
+      "locator": "sheet:6/row:14",
+      "text": "A14=Factura de terceros | B14=FORMULA('Línea base'!$B$10/4) cached=8.56 | C14=FORMULA(C7*Supuestos!$B$14/10^6) cached=8.46063593004769 | D14=FORMULA(D7*Supuestos!$B$14/10^6) cached=7.96381558028617 | E14=FORMULA(E7*Supuestos!$B$14/10^6) cached=7.06953895071542 | F14=FORMULA(F7*Supuestos!$B$14/10^6) cached=6.37399046104929 | G14=FORMULA(G7*Supuestos!$B$14/10^6) cached=6.06 | H14=FORMULA(H7*Supuestos!$B$14/10^6) cached=6.06 | I14=FORMULA(I7*Supuestos!$B$14/10^6) cached=6.06 | J14=FORMULA(J7*Supuestos!$B$14/10^6) cached=6.06 | K14=FORMULA(SUM(C14:J14)) cached=54.1079809220986"
+    },
+    {
+      "locator": "sheet:6/row:15",
+      "text": "A15=Beneficio bruto incremental | C15=FORMULA(Beneficios!$B$27) cached=0.1 | D15=FORMULA(Beneficios!$C$27) cached=0.6 | E15=FORMULA(Beneficios!$D$27) cached=1.5 | F15=FORMULA(Beneficios!$E$27) cached=2.2 | G15=FORMULA(Beneficios!$F$27) cached=2.516 | H15=FORMULA(Beneficios!$G$27) cached=2.516 | I15=FORMULA(Beneficios!$H$27) cached=2.516 | J15=FORMULA(Beneficios!$I$27) cached=2.516 | K15=FORMULA(SUM(C15:J15)) cached=14.464"
+    },
+    {
+      "locator": "sheet:6/row:16",
+      "text": "A16=  de lo cual ingreso: bonificaciones evitadas | C16=FORMULA(C15*Beneficios!$D$10/Beneficios!$D$11) cached=0.00361685214626391 | D16=FORMULA(D15*Beneficios!$D$10/Beneficios!$D$11) cached=0.0217011128775835 | E16=FORMULA(E15*Beneficios!$D$10/Beneficios!$D$11) cached=0.0542527821939587 | F16=FORMULA(F15*Beneficios!$D$10/Beneficios!$D$11) cached=0.0795707472178061 | G16=FORMULA(G15*Beneficios!$D$10/Beneficios!$D$11) cached=0.091 | H16=FORMULA(H15*Beneficios!$D$10/Beneficios!$D$11) cached=0.091 | I16=FORMULA(I15*Beneficios!$D$10/Beneficios!$D$11) cached=0.091 | J16=FORMULA(J15*Beneficios!$D$10/Beneficios!$D$11) cached=0.091 | K16=FORMULA(SUM(C16:J16)) cached=0.523141494435612"
+    },
+    {
+      "locator": "sheet:6/row:17",
+      "text": "A17=  de lo cual ahorro neto en costo de campo | C17=FORMULA(C15-C16) cached=0.0963831478537361 | D17=FORMULA(D15-D16) cached=0.578298887122417 | E17=FORMULA(E15-E16) cached=1.44574721780604 | F17=FORMULA(F15-F16) cached=2.12042925278219 | G17=FORMULA(G15-G16) cached=2.425 | H17=FORMULA(H15-H16) cached=2.425 | I17=FORMULA(I15-I16) cached=2.425 | J17=FORMULA(J15-J16) cached=2.425 | K17=FORMULA(SUM(C17:J17)) cached=13.9408585055644"
+    },
+    {
+      "locator": "sheet:6/row:18",
+      "text": "A18=Opex de la IA | C18=FORMULA(-Inversión!$B$31) cached=-0.1 | D18=FORMULA(-Inversión!$C$31) cached=-0.2 | E18=FORMULA(-Inversión!$D$31) cached=-0.22 | F18=FORMULA(-Inversión!$E$31) cached=-0.28 | G18=FORMULA(Beneficios!$D$12/4) cached=-0.325 | H18=FORMULA(Beneficios!$D$12/4) cached=-0.325 | I18=FORMULA(Beneficios!$D$12/4) cached=-0.325 | J18=FORMULA(Beneficios!$D$12/4) cached=-0.325 | K18=FORMULA(SUM(C18:J18)) cached=-2.1"
+    },
+    {
+      "locator": "sheet:6/row:19",
+      "text": "A19=Beneficio neto incremental | C19=FORMULA(C15+C18) cached=0 | D19=FORMULA(D15+D18) cached=0.4 | E19=FORMULA(E15+E18) cached=1.28 | F19=FORMULA(F15+F18) cached=1.92 | G19=FORMULA(G15+G18) cached=2.191 | H19=FORMULA(H15+H18) cached=2.191 | I19=FORMULA(I15+I18) cached=2.191 | J19=FORMULA(J15+J18) cached=2.191 | K19=FORMULA(SUM(C19:J19)) cached=12.364"
+    },
+    {
+      "locator": "sheet:6/row:20",
+      "text": "A20=Inversión | C20=FORMULA(-Inversión!$B$15) cached=-1.35 | D20=FORMULA(-Inversión!$C$15) cached=-1.94 | E20=FORMULA(-Inversión!$D$15) cached=-1.29 | F20=FORMULA(-Inversión!$E$15) cached=-0.82 | G20=FORMULA(0) cached=0 | H20=FORMULA(0) cached=0 | I20=FORMULA(0) cached=0 | J20=FORMULA(0) cached=0 | K20=FORMULA(SUM(C20:J20)) cached=-5.4"
+    },
+    {
+      "locator": "sheet:6/row:21",
+      "text": "A21=Flujo del trimestre | C21=FORMULA(C19+C20) cached=-1.35 | D21=FORMULA(D19+D20) cached=-1.54 | E21=FORMULA(E19+E20) cached=-0.01 | F21=FORMULA(F19+F20) cached=1.1 | G21=FORMULA(G19+G20) cached=2.191 | H21=FORMULA(H19+H20) cached=2.191 | I21=FORMULA(I19+I20) cached=2.191 | J21=FORMULA(J19+J20) cached=2.191 | K21=FORMULA(SUM(C21:J21)) cached=6.964"
+    },
+    {
+      "locator": "sheet:6/row:22",
+      "text": "A22=Flujo acumulado | C22=FORMULA(C21) cached=-1.35 | D22=FORMULA(C22+D21) cached=-2.89 | E22=FORMULA(D22+E21) cached=-2.9 | F22=FORMULA(E22+F21) cached=-1.8 | G22=FORMULA(F22+G21) cached=0.391000000000001 | H22=FORMULA(G22+H21) cached=2.582 | I22=FORMULA(H22+I21) cached=4.773 | J22=FORMULA(I22+J21) cached=6.964"
+    },
+    {
+      "locator": "sheet:6/row:23",
+      "text": "A23=ROI acumulado | C23=FORMULA((SUM($C19:C19)+SUM($C20:C20))/-SUM($C20:C20)) cached=-1 | D23=FORMULA((SUM($C19:D19)+SUM($C20:D20))/-SUM($C20:D20)) cached=-0.878419452887538 | E23=FORMULA((SUM($C19:E19)+SUM($C20:E20))/-SUM($C20:E20)) cached=-0.633187772925764 | F23=FORMULA((SUM($C19:F19)+SUM($C20:F20))/-SUM($C20:F20)) cached=-0.333333333333333 | G23=FORMULA((SUM($C19:G19)+SUM($C20:G20))/-SUM($C20:G20)) cached=0.0724074074074074 | H23=FORMULA((SUM($C19:H19)+SUM($C20:H20))/-SUM($C20:H20)) cached=0.478148148148148 | I23=FORMULA((SUM($C19:I19)+SUM($C20:I20))/-SUM($C20:I20)) cached=0.883888888888889 | J23=FORMULA((SUM($C19:J19)+SUM($C20:J20))/-SUM($C20:J20)) cached=1.28962962962963"
+    },
+    {
+      "locator": "sheet:6/row:24",
+      "text": "A24=Métrica norte (USD por orden resuelta) | B24=FORMULA('Línea base'!$B$26) cached=47.2793629727936 | C24=FORMULA((Supuestos!$B$13/4-C17-C18)*10^6/(Supuestos!$B$12/4)) cached=47.2913631458071 | D24=FORMULA((Supuestos!$B$13/4-D17-D18)*10^6/(Supuestos!$B$12/4)) cached=46.0242239976031 | E24=FORMULA((Supuestos!$B$13/4-E17-E18)*10^6/(Supuestos!$B$12/4)) cached=43.2125175255274 | F24=FORMULA((Supuestos!$B$13/4-F17-F18)*10^6/(Supuestos!$B$12/4)) cached=41.1730947153875 | G24=FORMULA((Supuestos!$B$13/4-G17-G18)*10^6/(Supuestos!$B$12/4)) cached=40.3118779031188 | H24=FORMULA((Supuestos!$B$13/4-H17-H18)*10^6/(Supuestos!$B$12/4)) cached=40.3118779031188 | I24=FORMULA((Supuestos!$B$13/4-I17-I18)*10^6/(Supuestos!$B$12/4)) cached=40.3118779031188 | J24=FORMULA((Supuestos!$B$13/4-J17-J18)*10^6/(Supuestos!$B$12/4)) cached=40.3118779031188"
+    },
+    {
+      "locator": "sheet:6/row:26",
+      "text": "A26=Desde cuándo se ve el retorno"
+    },
+    {
+      "locator": "sheet:6/row:27",
+      "text": "A27=Primer ahorro en la factura de terceros | B27=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C17:J17>0,0),0))) cached=Q1 2027"
+    },
+    {
+      "locator": "sheet:6/row:28",
+      "text": "A28=Primer ingreso (bonificaciones evitadas ≥ USD 0,01 M) | B28=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C16:J16>=0.01,0),0))) cached=Q2 2027"
+    },
+    {
+      "locator": "sheet:6/row:29",
+      "text": "A29=Beneficio neto positivo (beneficio > opex) | B29=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C19:J19>0.005,0),0))) cached=Q2 2027"
+    },
+    {
+      "locator": "sheet:6/row:30",
+      "text": "A30=Flujo trimestral positivo (beneficio > inversión) | B30=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C21:J21>0,0),0))) cached=Q4 2027"
+    },
+    {
+      "locator": "sheet:6/row:31",
+      "text": "A31=Payback: flujo acumulado positivo | B31=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C22:J22>=0,0),0))) cached=Q1 2028"
+    },
+    {
+      "locator": "sheet:6/row:32",
+      "text": "A32=ROI acumulado mayor a 100% | B32=FORMULA(INDEX($C$3:$J$3,MATCH(TRUE(),INDEX(C23:J23>1,0),0))) cached=Q4 2028"
+    },
+    {
+      "locator": "sheet:6/row:33",
+      "text": "A33=Reducción de la factura de terceros a régimen | B33=FORMULA(1-J14/B14) cached=0.292056074766355"
+    },
+    {
+      "locator": "sheet:6/row:34",
+      "text": "A34=Técnicos de terceros equivalentes liberados a régimen | B34=FORMULA(B8-J8) cached=175.070028011205"
+    },
+    {
+      "locator": "sheet:6/row:36",
+      "text": "A36=Cómo se mide (certifica Control de Gestión, bajo el CFO, antes de cada gate)"
+    },
+    {
+      "locator": "sheet:6/row:37",
+      "text": "A37=1. Ahorro del trimestre = (visitas por orden de la línea base − visitas por orden del trimestre) × órdenes del trimestre × USD 32 − costo de resolución remota."
+    },
+    {
+      "locator": "sheet:6/row:38",
+      "text": "A38=2. Grupo de control del 10%: si el control también mejora, esa mejora se descuenta."
+    },
+    {
+      "locator": "sheet:6/row:39",
+      "text": "A39=3. Conciliación con la factura de terceros: una diferencia mayor al 10% se explica ante el comité."
+    },
+    {
+      "locator": "sheet:6/row:40",
+      "text": "A40=4. Ocupación de la planta propia: los 400 técnicos propios siguen en 7 visitas por día."
+    },
+    {
+      "locator": "sheet:6/row:41",
+      "text": "A41=5. ROI acumulado = (beneficio neto acumulado − inversión acumulada) / inversión acumulada."
+    },
+    {
+      "locator": "sheet:6/row:42",
+      "text": "A42=6. No se cuentan minutos de papeleo, NPS ni horas de técnicos propios: no generan caja."
+    },
+    {
+      "locator": "sheet:7/row:1",
+      "text": "A1=Proyección a 5 años, VAN y TIR (USD M)"
+    },
+    {
+      "locator": "sheet:7/row:2",
+      "text": "A2=2027 sale del flujo trimestral. Desde 2029 el bruto crece 2% anual (redondeado a USD 10 mil)."
+    },
+    {
+      "locator": "sheet:7/row:4",
+      "text": "A4=Concepto | B4=2027 | C4=2028 | D4=2029 | E4=2030 | F4=2031 | G4=Total 5 años"
+    },
+    {
+      "locator": "sheet:7/row:5",
+      "text": "A5=Beneficio bruto | B5=FORMULA(SUM('Flujo y ROI'!C15:F15)) cached=4.4 | C5=FORMULA(ROUND(Beneficios!$D$11,2)) cached=10.06 | D5=FORMULA(ROUND(C5*(1+Supuestos!$B$43),2)) cached=10.26 | E5=FORMULA(ROUND(D5*(1+Supuestos!$B$43),2)) cached=10.47 | F5=FORMULA(ROUND(E5*(1+Supuestos!$B$43),2)) cached=10.68 | G5=FORMULA(SUM(B5:F5)) cached=45.87"
+    },
+    {
+      "locator": "sheet:7/row:6",
+      "text": "A6=Opex recurrente de la IA | B6=FORMULA(SUM('Flujo y ROI'!C18:F18)) cached=-0.8 | C6=FORMULA(Beneficios!$D$12) cached=-1.3 | D6=FORMULA(-Supuestos!$B$46) cached=-1.36 | E6=FORMULA(-Supuestos!$B$47) cached=-1.37 | F6=FORMULA(-Supuestos!$B$48) cached=-1.48 | G6=FORMULA(SUM(B6:F6)) cached=-6.31"
+    },
+    {
+      "locator": "sheet:7/row:7",
+      "text": "A7=Inversión única | B7=FORMULA(-Inversión!$F$15) cached=-5.4 | C7=FORMULA(0) cached=0 | D7=FORMULA(0) cached=0 | E7=FORMULA(0) cached=0 | F7=FORMULA(0) cached=0 | G7=FORMULA(SUM(B7:F7)) cached=-5.4"
+    },
+    {
+      "locator": "sheet:7/row:8",
+      "text": "A8=Reinversión (modelos y equipos) | B8=FORMULA(0) cached=0 | C8=FORMULA(0) cached=0 | D8=FORMULA(-Supuestos!$B$49) cached=-0.3 | E8=FORMULA(-Supuestos!$B$50) cached=-0.3 | F8=FORMULA(-Supuestos!$B$51) cached=-0.1 | G8=FORMULA(SUM(B8:F8)) cached=-0.7"
+    },
+    {
+      "locator": "sheet:7/row:9",
+      "text": "A9=Flujo antes de impuestos | B9=FORMULA(SUM(B5:B8)) cached=-1.8 | C9=FORMULA(SUM(C5:C8)) cached=8.76 | D9=FORMULA(SUM(D5:D8)) cached=8.6 | E9=FORMULA(SUM(E5:E8)) cached=8.8 | F9=FORMULA(SUM(F5:F8)) cached=9.1 | G9=FORMULA(SUM(B9:F9)) cached=33.46"
+    },
+    {
+      "locator": "sheet:7/row:10",
+      "text": "A10=Acumulado | B10=FORMULA(B9) cached=-1.8 | C10=FORMULA(B10+C9) cached=6.96 | D10=FORMULA(C10+D9) cached=15.56 | E10=FORMULA(D10+E9) cached=24.36 | F10=FORMULA(E10+F9) cached=33.46"
+    },
+    {
+      "locator": "sheet:7/row:12",
+      "text": "A12=Impuestos (35%; inversión y reinversión amortizadas en 3 años)"
+    },
+    {
+      "locator": "sheet:7/row:13",
+      "text": "A13=Beneficio operativo (bruto − opex) | B13=FORMULA(B5+B6) cached=3.6 | C13=FORMULA(C5+C6) cached=8.76 | D13=FORMULA(D5+D6) cached=8.9 | E13=FORMULA(E5+E6) cached=9.1 | F13=FORMULA(F5+F6) cached=9.2 | G13=FORMULA(SUM(B13:F13)) cached=39.56"
+    },
+    {
+      "locator": "sheet:7/row:14",
+      "text": "A14=Amortización | B14=FORMULA((-B7-B8)/Supuestos!$B$45) cached=1.8 | C14=FORMULA((-B7-B8)/Supuestos!$B$45+(-C7-C8)/Supuestos!$B$45) cached=1.8 | D14=FORMULA((-B7-B8)/Supuestos!$B$45+(-C7-C8)/Supuestos!$B$45+(-D7-D8)/Supuestos!$B$45) cached=1.9 | E14=FORMULA((-C7-C8)/Supuestos!$B$45+(-D7-D8)/Supuestos!$B$45+(-E7-E8)/Supuestos!$B$45) cached=0.2 | F14=FORMULA((-D7-D8)/Supuestos!$B$45+(-E7-E8)/Supuestos!$B$45+(-F7-F8)/Supuestos!$B$45) cached=0.233333333333333 | G14=FORMULA(SUM(B14:F14)) cached=5.93333333333333"
+    },
+    {
+      "locator": "sheet:7/row:15",
+      "text": "A15=Base imponible | B15=FORMULA(B13-B14) cached=1.8 | C15=FORMULA(C13-C14) cached=6.96 | D15=FORMULA(D13-D14) cached=7 | E15=FORMULA(E13-E14) cached=8.9 | F15=FORMULA(F13-F14) cached=8.96666666666667 | G15=FORMULA(SUM(B15:F15)) cached=33.6266666666667"
+    },
+    {
+      "locator": "sheet:7/row:16",
+      "text": "A16=Impuesto a las ganancias | B16=FORMULA(-MAX(0,B15)*Supuestos!$B$44) cached=-0.63 | C16=FORMULA(-MAX(0,C15)*Supuestos!$B$44) cached=-2.436 | D16=FORMULA(-MAX(0,D15)*Supuestos!$B$44) cached=-2.45 | E16=FORMULA(-MAX(0,E15)*Supuestos!$B$44) cached=-3.115 | F16=FORMULA(-MAX(0,F15)*Supuestos!$B$44) cached=-3.13833333333333 | G16=FORMULA(SUM(B16:F16)) cached=-11.7693333333333"
+    },
+    {
+      "locator": "sheet:7/row:17",
+      "text": "A17=Flujo después de impuestos | B17=FORMULA(B9+B16) cached=-2.43 | C17=FORMULA(C9+C16) cached=6.324 | D17=FORMULA(D9+D16) cached=6.15 | E17=FORMULA(E9+E16) cached=5.685 | F17=FORMULA(F9+F16) cached=5.96166666666667 | G17=FORMULA(SUM(B17:F17)) cached=21.6906666666667"
+    },
+    {
+      "locator": "sheet:7/row:19",
+      "text": "A19=Flujos trimestrales (base del VAN y la TIR; descuento a mitad de trimestre)"
+    },
+    {
+      "locator": "sheet:7/row:20",
+      "text": "A20=Concepto trimestral | B20=Q1 2027 | C20=Q2 2027 | D20=Q3 2027 | E20=Q4 2027 | F20=Q1 2028 | G20=Q2 2028 | H20=Q3 2028 | I20=Q4 2028 | J20=Q1 2029 | K20=Q2 2029 | L20=Q3 2029 | M20=Q4 2029 | N20=Q1 2030 | O20=Q2 2030 | P20=Q3 2030 | Q20=Q4 2030 | R20=Q1 2031 | S20=Q2 2031 | T20=Q3 2031 | U20=Q4 2031"
+    },
+    {
+      "locator": "sheet:7/row:21",
+      "text": "A21=Tiempo (años, mitad de trimestre) | B21=FORMULA((0+0.5)/4) cached=0.125 | C21=FORMULA((1+0.5)/4) cached=0.375 | D21=FORMULA((2+0.5)/4) cached=0.625 | E21=FORMULA((3+0.5)/4) cached=0.875 | F21=FORMULA((4+0.5)/4) cached=1.125 | G21=FORMULA((5+0.5)/4) cached=1.375 | H21=FORMULA((6+0.5)/4) cached=1.625 | I21=FORMULA((7+0.5)/4) cached=1.875 | J21=FORMULA((8+0.5)/4) cached=2.125 | K21=FORMULA((9+0.5)/4) cached=2.375 | L21=FORMULA((10+0.5)/4) cached=2.625 | M21=FORMULA((11+0.5)/4) cached=2.875 | N21=FORMULA((12+0.5)/4) cached=3.125 | O21=FORMULA((13+0.5)/4) cached=3.375 | P21=FORMULA((14+0.5)/4) cached=3.625 | Q21=FORMULA((15+0.5)/4) cached=3.875 | R21=FORMULA((16+0.5)/4) cached=4.125 | S21=FORMULA((17+0.5)/4) cached=4.375 | T21=FORMULA((18+0.5)/4) cached=4.625 | U21=FORMULA((19+0.5)/4) cached=4.875"
+    },
+    {
+      "locator": "sheet:7/row:22",
+      "text": "A22=Beneficio bruto | B22=FORMULA(Beneficios!$B$27) cached=0.1 | C22=FORMULA(Beneficios!$C$27) cached=0.6 | D22=FORMULA(Beneficios!$D$27) cached=1.5 | E22=FORMULA(Beneficios!$E$27) cached=2.2 | F22=FORMULA(C$5/4) cached=2.515 | G22=FORMULA(C$5/4) cached=2.515 | H22=FORMULA(C$5/4) cached=2.515 | I22=FORMULA(C$5/4) cached=2.515 | J22=FORMULA(D$5/4) cached=2.565 | K22=FORMULA(D$5/4) cached=2.565 | L22=FORMULA(D$5/4) cached=2.565 | M22=FORMULA(D$5/4) cached=2.565 | N22=FORMULA(E$5/4) cached=2.6175 | O22=FORMULA(E$5/4) cached=2.6175 | P22=FORMULA(E$5/4) cached=2.6175 | Q22=FORMULA(E$5/4) cached=2.6175 | R22=FORMULA(F$5/4) cached=2.67 | S22=FORMULA(F$5/4) cached=2.67 | T22=FORMULA(F$5/4) cached=2.67 | U22=FORMULA(F$5/4) cached=2.67"
+    },
+    {
+      "locator": "sheet:7/row:23",
+      "text": "A23=Opex de la IA | B23=FORMULA(-Inversión!$B$31) cached=-0.1 | C23=FORMULA(-Inversión!$C$31) cached=-0.2 | D23=FORMULA(-Inversión!$D$31) cached=-0.22 | E23=FORMULA(-Inversión!$E$31) cached=-0.28 | F23=FORMULA(C$6/4) cached=-0.325 | G23=FORMULA(C$6/4) cached=-0.325 | H23=FORMULA(C$6/4) cached=-0.325 | I23=FORMULA(C$6/4) cached=-0.325 | J23=FORMULA(D$6/4) cached=-0.34 | K23=FORMULA(D$6/4) cached=-0.34 | L23=FORMULA(D$6/4) cached=-0.34 | M23=FORMULA(D$6/4) cached=-0.34 | N23=FORMULA(E$6/4) cached=-0.3425 | O23=FORMULA(E$6/4) cached=-0.3425 | P23=FORMULA(E$6/4) cached=-0.3425 | Q23=FORMULA(E$6/4) cached=-0.3425 | R23=FORMULA(F$6/4) cached=-0.37 | S23=FORMULA(F$6/4) cached=-0.37 | T23=FORMULA(F$6/4) cached=-0.37 | U23=FORMULA(F$6/4) cached=-0.37"
+    },
+    {
+      "locator": "sheet:7/row:24",
+      "text": "A24=Inversión y reinversión | B24=FORMULA(-Inversión!$B$15) cached=-1.35 | C24=FORMULA(-Inversión!$C$15) cached=-1.94 | D24=FORMULA(-Inversión!$D$15) cached=-1.29 | E24=FORMULA(-Inversión!$E$15) cached=-0.82 | F24=FORMULA(C$8/4) cached=0 | G24=FORMULA(C$8/4) cached=0 | H24=FORMULA(C$8/4) cached=0 | I24=FORMULA(C$8/4) cached=0 | J24=FORMULA(D$8/4) cached=-0.075 | K24=FORMULA(D$8/4) cached=-0.075 | L24=FORMULA(D$8/4) cached=-0.075 | M24=FORMULA(D$8/4) cached=-0.075 | N24=FORMULA(E$8/4) cached=-0.075 | O24=FORMULA(E$8/4) cached=-0.075 | P24=FORMULA(E$8/4) cached=-0.075 | Q24=FORMULA(E$8/4) cached=-0.075 | R24=FORMULA(F$8/4) cached=-0.025 | S24=FORMULA(F$8/4) cached=-0.025 | T24=FORMULA(F$8/4) cached=-0.025 | U24=FORMULA(F$8/4) cached=-0.025"
+    },
+    {
+      "locator": "sheet:7/row:25",
+      "text": "A25=Flujo antes de impuestos | B25=FORMULA(B22+B23+B24) cached=-1.35 | C25=FORMULA(C22+C23+C24) cached=-1.54 | D25=FORMULA(D22+D23+D24) cached=-0.01 | E25=FORMULA(E22+E23+E24) cached=1.1 | F25=FORMULA(F22+F23+F24) cached=2.19 | G25=FORMULA(G22+G23+G24) cached=2.19 | H25=FORMULA(H22+H23+H24) cached=2.19 | I25=FORMULA(I22+I23+I24) cached=2.19 | J25=FORMULA(J22+J23+J24) cached=2.15 | K25=FORMULA(K22+K23+K24) cached=2.15 | L25=FORMULA(L22+L23+L24) cached=2.15 | M25=FORMULA(M22+M23+M24) cached=2.15 | N25=FORMULA(N22+N23+N24) cached=2.2 | O25=FORMULA(O22+O23+O24) cached=2.2 | P25=FORMULA(P22+P23+P24) cached=2.2 | Q25=FORMULA(Q22+Q23+Q24) cached=2.2 | R25=FORMULA(R22+R23+R24) cached=2.275 | S25=FORMULA(S22+S23+S24) cached=2.275 | T25=FORMULA(T22+T23+T24) cached=2.275 | U25=FORMULA(U22+U23+U24) cached=2.275"
+    },
+    {
+      "locator": "sheet:7/row:26",
+      "text": "A26=Flujo después de impuestos | B26=FORMULA(B25+B$16/4) cached=-1.5075 | C26=FORMULA(C25+B$16/4) cached=-1.6975 | D26=FORMULA(D25+B$16/4) cached=-0.1675 | E26=FORMULA(E25+B$16/4) cached=0.9425 | F26=FORMULA(F25+C$16/4) cached=1.581 | G26=FORMULA(G25+C$16/4) cached=1.581 | H26=FORMULA(H25+C$16/4) cached=1.581 | I26=FORMULA(I25+C$16/4) cached=1.581 | J26=FORMULA(J25+D$16/4) cached=1.5375 | K26=FORMULA(K25+D$16/4) cached=1.5375 | L26=FORMULA(L25+D$16/4) cached=1.5375 | M26=FORMULA(M25+D$16/4) cached=1.5375 | N26=FORMULA(N25+E$16/4) cached=1.42125 | O26=FORMULA(O25+E$16/4) cached=1.42125 | P26=FORMULA(P25+E$16/4) cached=1.42125 | Q26=FORMULA(Q25+E$16/4) cached=1.42125 | R26=FORMULA(R25+F$16/4) cached=1.49041666666667 | S26=FORMULA(S25+F$16/4) cached=1.49041666666667 | T26=FORMULA(T25+F$16/4) cached=1.49041666666667 | U26=FORMULA(U25+F$16/4) cached=1.49041666666667"
+    },
+    {
+      "locator": "sheet:7/row:27",
+      "text": "A27=Factor de descuento (WACC 16%) | B27=FORMULA(1/(1+Supuestos!$B$42)^B21) cached=0.981618537637692 | C27=FORMULA(1/(1+Supuestos!$B$42)^C21) cached=0.945863036694151 | D27=FORMULA(1/(1+Supuestos!$B$42)^D21) cached=0.911409931537471 | E27=FORMULA(1/(1+Supuestos!$B$42)^E21) cached=0.878211782340468 | F27=FORMULA(1/(1+Supuestos!$B$42)^F21) cached=0.846222877273872 | G27=FORMULA(1/(1+Supuestos!$B$42)^G21) cached=0.815399169563924 | H27=FORMULA(1/(1+Supuestos!$B$42)^H21) cached=0.785698216842648 | I27=FORMULA(1/(1+Supuestos!$B$42)^I21) cached=0.7570791227073 | J27=FORMULA(1/(1+Supuestos!$B$42)^J21) cached=0.729502480408511 | K27=FORMULA(1/(1+Supuestos!$B$42)^K21) cached=0.702930318589589 | L27=FORMULA(1/(1+Supuestos!$B$42)^L21) cached=0.677326049002283 | M27=FORMULA(1/(1+Supuestos!$B$42)^M21) cached=0.652654416126983 | N27=FORMULA(1/(1+Supuestos!$B$42)^N21) cached=0.628881448628027 | O27=FORMULA(1/(1+Supuestos!$B$42)^O21) cached=0.605974412577232 | P27=FORMULA(1/(1+Supuestos!$B$42)^P21) cached=0.583901766381278 | Q27=FORMULA(1/(1+Supuestos!$B$42)^Q21) cached=0.562633117350848 | R27=FORMULA(1/(1+Supuestos!$B$42)^R21) cached=0.542139179851747 | S27=FORMULA(1/(1+Supuestos!$B$42)^S21) cached=0.522391734980373 | T27=FORMULA(1/(1+Supuestos!$B$42)^T21) cached=0.503363591707999 | U27=FORMULA(1/(1+Supuestos!$B$42)^U21) cached=0.485028549440386"
+    },
+    {
+      "locator": "sheet:7/row:28",
+      "text": "A28=Factor de descuento (WACC 20%, sensibilidad) | B28=FORMULA(1/(1+0.2)^B21) cached=0.977467540230553 | C28=FORMULA(1/(1+0.2)^C21) cached=0.933914315927013 | D28=FORMULA(1/(1+0.2)^D21) cached=0.892301701688937 | E28=FORMULA(1/(1+0.2)^E21) cached=0.852543229350386 | F28=FORMULA(1/(1+0.2)^F21) cached=0.814556283525461 | G28=FORMULA(1/(1+0.2)^G21) cached=0.778261929939178 | H28=FORMULA(1/(1+0.2)^H21) cached=0.743584751407447 | I28=FORMULA(1/(1+0.2)^I21) cached=0.710452691125322 | J28=FORMULA(1/(1+0.2)^J21) cached=0.678796902937884 | K28=FORMULA(1/(1+0.2)^K21) cached=0.648551608282648 | L28=FORMULA(1/(1+0.2)^L21) cached=0.619653959506206 | M28=FORMULA(1/(1+0.2)^M21) cached=0.592043909271101 | N28=FORMULA(1/(1+0.2)^N21) cached=0.56566408578157 | O28=FORMULA(1/(1+0.2)^O21) cached=0.540459673568874 | P28=FORMULA(1/(1+0.2)^P21) cached=0.516378299588505 | Q28=FORMULA(1/(1+0.2)^Q21) cached=0.493369924392584 | R28=FORMULA(1/(1+0.2)^R21) cached=0.471386738151308 | S28=FORMULA(1/(1+0.2)^S21) cached=0.450383061307395 | T28=FORMULA(1/(1+0.2)^T21) cached=0.430315249657088 | U28=FORMULA(1/(1+0.2)^U21) cached=0.411141603660487"
+    },
+    {
+      "locator": "sheet:7/row:29",
+      "text": "A29=Pesimista: flujo antes de impuestos | B29=FORMULA(B22*Supuestos!$B$54+(B23+B24)*Supuestos!$B$55) cached=-1.69 | C29=FORMULA(C22*Supuestos!$B$54+(C23+C24)*Supuestos!$B$55) cached=-2.268 | D29=FORMULA(D22*Supuestos!$B$54+(D23+D24)*Supuestos!$B$55) cached=-1.062 | E29=FORMULA(E22*Supuestos!$B$54+(E23+E24)*Supuestos!$B$55) cached=-0.22 | F29=FORMULA(F22*Supuestos!$B$54+(F23+F24)*Supuestos!$B$55) cached=0.8675 | G29=FORMULA(G22*Supuestos!$B$54+(G23+G24)*Supuestos!$B$55) cached=0.8675 | H29=FORMULA(H22*Supuestos!$B$54+(H23+H24)*Supuestos!$B$55) cached=0.8675 | I29=FORMULA(I22*Supuestos!$B$54+(I23+I24)*Supuestos!$B$55) cached=0.8675 | J29=FORMULA(J22*Supuestos!$B$54+(J23+J24)*Supuestos!$B$55) cached=0.7845 | K29=FORMULA(K22*Supuestos!$B$54+(K23+K24)*Supuestos!$B$55) cached=0.7845 | L29=FORMULA(L22*Supuestos!$B$54+(L23+L24)*Supuestos!$B$55) cached=0.7845 | M29=FORMULA(M22*Supuestos!$B$54+(M23+M24)*Supuestos!$B$55) cached=0.7845 | N29=FORMULA(N22*Supuestos!$B$54+(N23+N24)*Supuestos!$B$55) cached=0.80775 | O29=FORMULA(O22*Supuestos!$B$54+(O23+O24)*Supuestos!$B$55) cached=0.80775 | P29=FORMULA(P22*Supuestos!$B$54+(P23+P24)*Supuestos!$B$55) cached=0.80775 | Q29=FORMULA(Q22*Supuestos!$B$54+(Q23+Q24)*Supuestos!$B$55) cached=0.80775 | R29=FORMULA(R22*Supuestos!$B$54+(R23+R24)*Supuestos!$B$55) cached=0.861 | S29=FORMULA(S22*Supuestos!$B$54+(S23+S24)*Supuestos!$B$55) cached=0.861 | T29=FORMULA(T22*Supuestos!$B$54+(T23+T24)*Supuestos!$B$55) cached=0.861 | U29=FORMULA(U22*Supuestos!$B$54+(U23+U24)*Supuestos!$B$55) cached=0.861"
+    },
+    {
+      "locator": "sheet:7/row:30",
+      "text": "A30=Optimista: flujo antes de impuestos | B30=FORMULA(B22*Supuestos!$B$58+(B23+B24)*Supuestos!$B$59) cached=-1.32 | C30=FORMULA(C22*Supuestos!$B$58+(C23+C24)*Supuestos!$B$59) cached=-1.36 | D30=FORMULA(D22*Supuestos!$B$58+(D23+D24)*Supuestos!$B$59) cached=0.44 | E30=FORMULA(E22*Supuestos!$B$58+(E23+E24)*Supuestos!$B$59) cached=1.76 | F30=FORMULA(F22*Supuestos!$B$58+(F23+F24)*Supuestos!$B$59) cached=2.9445 | G30=FORMULA(G22*Supuestos!$B$58+(G23+G24)*Supuestos!$B$59) cached=2.9445 | H30=FORMULA(H22*Supuestos!$B$58+(H23+H24)*Supuestos!$B$59) cached=2.9445 | I30=FORMULA(I22*Supuestos!$B$58+(I23+I24)*Supuestos!$B$59) cached=2.9445 | J30=FORMULA(J22*Supuestos!$B$58+(J23+J24)*Supuestos!$B$59) cached=2.9195 | K30=FORMULA(K22*Supuestos!$B$58+(K23+K24)*Supuestos!$B$59) cached=2.9195 | L30=FORMULA(L22*Supuestos!$B$58+(L23+L24)*Supuestos!$B$59) cached=2.9195 | M30=FORMULA(M22*Supuestos!$B$58+(M23+M24)*Supuestos!$B$59) cached=2.9195 | N30=FORMULA(N22*Supuestos!$B$58+(N23+N24)*Supuestos!$B$59) cached=2.98525 | O30=FORMULA(O22*Supuestos!$B$58+(O23+O24)*Supuestos!$B$59) cached=2.98525 | P30=FORMULA(P22*Supuestos!$B$58+(P23+P24)*Supuestos!$B$59) cached=2.98525 | Q30=FORMULA(Q22*Supuestos!$B$58+(Q23+Q24)*Supuestos!$B$59) cached=2.98525 | R30=FORMULA(R22*Supuestos!$B$58+(R23+R24)*Supuestos!$B$59) cached=3.076 | S30=FORMULA(S22*Supuestos!$B$58+(S23+S24)*Supuestos!$B$59) cached=3.076 | T30=FORMULA(T22*Supuestos!$B$58+(T23+T24)*Supuestos!$B$59) cached=3.076 | U30=FORMULA(U22*Supuestos!$B$58+(U23+U24)*Supuestos!$B$59) cached=3.076"
+    },
+    {
+      "locator": "sheet:7/row:31",
+      "text": "A31=Pesimista: acumulado | B31=FORMULA(B29) cached=-1.69 | C31=FORMULA(B31+C29) cached=-3.958 | D31=FORMULA(C31+D29) cached=-5.02 | E31=FORMULA(D31+E29) cached=-5.24 | F31=FORMULA(E31+F29) cached=-4.3725 | G31=FORMULA(F31+G29) cached=-3.505 | H31=FORMULA(G31+H29) cached=-2.6375 | I31=FORMULA(H31+I29) cached=-1.77 | J31=FORMULA(I31+J29) cached=-0.985499999999999 | K31=FORMULA(J31+K29) cached=-0.200999999999999 | L31=FORMULA(K31+L29) cached=0.583500000000001 | M31=FORMULA(L31+M29) cached=1.368 | N31=FORMULA(M31+N29) cached=2.17575 | O31=FORMULA(N31+O29) cached=2.9835 | P31=FORMULA(O31+P29) cached=3.79125 | Q31=FORMULA(P31+Q29) cached=4.599 | R31=FORMULA(Q31+R29) cached=5.46 | S31=FORMULA(R31+S29) cached=6.321 | T31=FORMULA(S31+T29) cached=7.182 | U31=FORMULA(T31+U29) cached=8.043"
+    },
+    {
+      "locator": "sheet:7/row:32",
+      "text": "A32=Base: acumulado | B32=FORMULA(B25) cached=-1.35 | C32=FORMULA(B32+C25) cached=-2.89 | D32=FORMULA(C32+D25) cached=-2.9 | E32=FORMULA(D32+E25) cached=-1.8 | F32=FORMULA(E32+F25) cached=0.390000000000001 | G32=FORMULA(F32+G25) cached=2.58 | H32=FORMULA(G32+H25) cached=4.77 | I32=FORMULA(H32+I25) cached=6.96 | J32=FORMULA(I32+J25) cached=9.11 | K32=FORMULA(J32+K25) cached=11.26 | L32=FORMULA(K32+L25) cached=13.41 | M32=FORMULA(L32+M25) cached=15.56 | N32=FORMULA(M32+N25) cached=17.76 | O32=FORMULA(N32+O25) cached=19.96 | P32=FORMULA(O32+P25) cached=22.16 | Q32=FORMULA(P32+Q25) cached=24.36 | R32=FORMULA(Q32+R25) cached=26.635 | S32=FORMULA(R32+S25) cached=28.91 | T32=FORMULA(S32+T25) cached=31.185 | U32=FORMULA(T32+U25) cached=33.46"
+    },
+    {
+      "locator": "sheet:7/row:33",
+      "text": "A33=Optimista: acumulado | B33=FORMULA(B30) cached=-1.32 | C33=FORMULA(B33+C30) cached=-2.68 | D33=FORMULA(C33+D30) cached=-2.24 | E33=FORMULA(D33+E30) cached=-0.479999999999999 | F33=FORMULA(E33+F30) cached=2.4645 | G33=FORMULA(F33+G30) cached=5.409 | H33=FORMULA(G33+H30) cached=8.3535 | I33=FORMULA(H33+I30) cached=11.298 | J33=FORMULA(I33+J30) cached=14.2175 | K33=FORMULA(J33+K30) cached=17.137 | L33=FORMULA(K33+L30) cached=20.0565 | M33=FORMULA(L33+M30) cached=22.976 | N33=FORMULA(M33+N30) cached=25.96125 | O33=FORMULA(N33+O30) cached=28.9465 | P33=FORMULA(O33+P30) cached=31.93175 | Q33=FORMULA(P33+Q30) cached=34.917 | R33=FORMULA(Q33+R30) cached=37.993 | S33=FORMULA(R33+S30) cached=41.069 | T33=FORMULA(S33+T30) cached=44.145 | U33=FORMULA(T33+U30) cached=47.221"
+    },
+    {
+      "locator": "sheet:7/row:35",
+      "text": "A35=Indicadores"
+    },
+    {
+      "locator": "sheet:7/row:36",
+      "text": "A36=Indicador | B36=Antes de impuestos | C36=Después de impuestos"
+    },
+    {
+      "locator": "sheet:7/row:37",
+      "text": "A37=VAN 5 años (WACC 16%, USD M) | B37=FORMULA(SUMPRODUCT($B$25:$U$25,$B$27:$U$27)) cached=21.0413875242202 | C37=FORMULA(SUMPRODUCT($B$26:$U$26,$B$27:$U$27)) cached=13.3472891487809"
+    },
+    {
+      "locator": "sheet:7/row:38",
+      "text": "A38=TIR anual | B38=FORMULA((1+IRR($B$25:$U$25))^4-1) cached=2.75613583838542 | C38=FORMULA((1+IRR($B$26:$U$26))^4-1) cached=1.74982721515774"
+    },
+    {
+      "locator": "sheet:7/row:39",
+      "text": "A39=Payback (primer trimestre con acumulado ≥ 0) | B39=FORMULA(INDEX($B$20:$U$20,MATCH(TRUE(),INDEX($B$32:$U$32>=0,0),0))) cached=Q1 2028"
+    },
+    {
+      "locator": "sheet:7/row:40",
+      "text": "A40=Neto a 24 meses (USD M) | B40=FORMULA(SUM($B$25:$I$25)) cached=6.96"
+    },
+    {
+      "locator": "sheet:7/row:41",
+      "text": "A41=Beneficio neto anual a régimen (USD M) | B41=FORMULA(Beneficios!$D$13) cached=8.764"
+    },
+    {
+      "locator": "sheet:7/row:42",
+      "text": "A42=Run-rate neto al salir de Q4 2027 (USD M/año) | B42=FORMULA(Beneficios!$D$13) cached=8.764"
+    },
+    {
+      "locator": "sheet:7/row:43",
+      "text": "A43=La TIR es alta porque USD 5,4 M atacan USD 57 M de gasto anual; el número a defender es el VAN."
+    },
+    {
+      "locator": "sheet:8/row:1",
+      "text": "A1=Escenarios: probabilidad, resultado, gatillo y decisión preacordada (USD M)"
+    },
+    {
+      "locator": "sheet:8/row:2",
+      "text": "A2=El pesimista supone que se gasta todo; si el gate de Q2 frena el tramo 2, la exposición baja a USD 2,11 M."
+    },
+    {
+      "locator": "sheet:8/row:4",
+      "text": "A4=Indicador | B4=Pesimista | C4=Base | D4=Optimista | E4=Esperado (ponderado)"
+    },
+    {
+      "locator": "sheet:8/row:5",
+      "text": "A5=Probabilidad | B5=FORMULA(Supuestos!$B$53) cached=0.25 | C5=FORMULA(Supuestos!$B$56) cached=0.5 | D5=FORMULA(Supuestos!$B$57) cached=0.25 | E5=FORMULA(SUM(B5:D5)) cached=1"
+    },
+    {
+      "locator": "sheet:8/row:6",
+      "text": "A6=Supuesto | B6=Mitad del beneficio bruto; +20% en inversión y opex | C6=Plan del anexo B | D6=Beneficio bruto +30%"
+    },
+    {
+      "locator": "sheet:8/row:7",
+      "text": "A7=Neto a régimen (USD M/año) | B7=FORMULA(ROUND(Beneficios!$D$11,2)*Supuestos!$B$54+Beneficios!$D$12*Supuestos!$B$55) cached=3.47 | C7=FORMULA(Beneficios!$D$13) cached=8.764 | D7=FORMULA(ROUND(Beneficios!$D$11,2)*Supuestos!$B$58+Beneficios!$D$12*Supuestos!$B$59) cached=11.778 | E7=FORMULA(SUMPRODUCT($B$5:$D$5,B7:D7)) cached=8.194"
+    },
+    {
+      "locator": "sheet:8/row:8",
+      "text": "A8=Neto a 24 meses | B8=FORMULA(SUM('Proyección 5 años'!$B$29:$I$29)) cached=-1.77 | C8=FORMULA(SUM('Proyección 5 años'!$B$25:$I$25)) cached=6.96 | D8=FORMULA(SUM('Proyección 5 años'!$B$30:$I$30)) cached=11.298 | E8=FORMULA(SUMPRODUCT($B$5:$D$5,B8:D8)) cached=5.862"
+    },
+    {
+      "locator": "sheet:8/row:9",
+      "text": "A9=VAN 5 años (WACC 16%) | B9=FORMULA(SUMPRODUCT('Proyección 5 años'!$B$29:$U$29,'Proyección 5 años'!$B$27:$U$27)) cached=3.67278816358394 | C9=FORMULA(SUMPRODUCT('Proyección 5 años'!$B$25:$U$25,'Proyección 5 años'!$B$27:$U$27)) cached=21.0413875242202 | D9=FORMULA(SUMPRODUCT('Proyección 5 años'!$B$30:$U$30,'Proyección 5 años'!$B$27:$U$27)) cached=30.2886204665688 | E9=FORMULA(SUMPRODUCT($B$5:$D$5,B9:D9)) cached=19.0110459196483"
+    },
+    {
+      "locator": "sheet:8/row:10",
+      "text": "A10=TIR anual | B10=FORMULA((1+IRR('Proyección 5 años'!$B$29:$U$29))^4-1) cached=0.478002452175444 | C10=FORMULA((1+IRR('Proyección 5 años'!$B$25:$U$25))^4-1) cached=2.75613583838542 | D10=FORMULA((1+IRR('Proyección 5 años'!$B$30:$U$30))^4-1) cached=4.52143732124218"
+    },
+    {
+      "locator": "sheet:8/row:11",
+      "text": "A11=Payback | B11=FORMULA(INDEX('Proyección 5 años'!$B$20:$U$20,MATCH(TRUE(),INDEX('Proyección 5 años'!$B$31:$U$31>=0,0),0))) cached=Q3 2029 | C11=FORMULA(INDEX('Proyección 5 años'!$B$20:$U$20,MATCH(TRUE(),INDEX('Proyección 5 años'!$B$32:$U$32>=0,0),0))) cached=Q1 2028 | D11=FORMULA(INDEX('Proyección 5 años'!$B$20:$U$20,MATCH(TRUE(),INDEX('Proyección 5 años'!$B$33:$U$33>=0,0),0))) cached=Q1 2028"
+    },
+    {
+      "locator": "sheet:8/row:12",
+      "text": "A12=Gatillo cuantitativo | B12=En Q2: triage < 20%, re-reclamo a distancia > 1,1 × control, o sobrecosto > 20% | C12=Indicadores dentro de ±15% de la rampa planificada | D12=En Q3: triage > 50% de los casos que atiende y first-time fix ≥ 82%"
+    },
+    {
+      "locator": "sheet:8/row:13",
+      "text": "A13=Decisión preacordada | B13=No liberar el tramo 2 completo; concentrar en triage y aviso proactivo; revisar en Q3 | C13=Seguir el roadmap; sumar contratistas a la app en 2028 | D13=Adelantar a Q4 2027 el piloto de mantenimiento predictivo y la predicción de repuestos"
+    },
+    {
+      "locator": "sheet:8/row:14",
+      "text": "A14=Quién decide | B14=Comité de IA; aprueban CEO y CFO | C14=Comité de IA | D14=Comité de IA; aprueba el CEO"
+    },
+    {
+      "locator": "sheet:8/row:16",
+      "text": "A16=Costo de esperar"
+    },
+    {
+      "locator": "sheet:8/row:17",
+      "text": "A17=Beneficio esperado a régimen (USD M/año) | B17=FORMULA(E7) cached=8.194"
+    },
+    {
+      "locator": "sheet:8/row:18",
+      "text": "A18=Costo de cada mes de demora (USD M) | B18=FORMULA(B17/12) cached=0.682833333333333"
+    },
+    {
+      "locator": "sheet:8/row:19",
+      "text": "A19=Costo de un trimestre de demora (USD M, 0,7 × 3) | B19=FORMULA(ROUND(B18,1)*3) cached=2.1"
+    },
+    {
+      "locator": "sheet:8/row:20",
+      "text": "A20=Pérdida actual mientras no se decide (USD M/mes) | B20=FORMULA('Línea base'!$B$20) cached=2.1342"
+    },
+    {
+      "locator": "sheet:9/row:1",
+      "text": "A1=Sensibilidad: neto a régimen, neto a 24 meses y VAN (USD M)"
+    },
+    {
+      "locator": "sheet:9/row:2",
+      "text": "A2=Los cambios de beneficio son lineales: VAN = k × VP(beneficio) − VP(costos), con k = (bruto + Δ) / bruto."
+    },
+    {
+      "locator": "sheet:9/row:4",
+      "text": "A4=Si cambia… | B4=Δ beneficio bruto (USD M/año) | C4=Neto a régimen (USD M/año) | D4=Neto 24 meses | E4=VAN 5 años"
+    },
+    {
+      "locator": "sheet:9/row:5",
+      "text": "A5=Caso base | B5=FORMULA(0) cached=0 | C5=FORMULA(ROUND(Beneficios!$D$11,2)+B5+Beneficios!$D$12) cached=8.76 | D5=FORMULA(((ROUND(Beneficios!$D$11,2)+B5)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=6.96 | E5=FORMULA(((ROUND(Beneficios!$D$11,2)+B5)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=21.0413875242202"
+    },
+    {
+      "locator": "sheet:9/row:6",
+      "text": "A6=Triage resuelve 15% de las órdenes (no 10%) | B6=FORMULA(Beneficios!$D$4*0.5) cached=1.77 | C6=FORMULA(ROUND(Beneficios!$D$11,2)+B6+Beneficios!$D$12) cached=10.53 | D6=FORMULA(((ROUND(Beneficios!$D$11,2)+B6)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=9.50415506958251 | E6=FORMULA(((ROUND(Beneficios!$D$11,2)+B6)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=26.4647149953789"
+    },
+    {
+      "locator": "sheet:9/row:7",
+      "text": "A7=Triage resuelve 5% de las órdenes | B7=FORMULA(-Beneficios!$D$4*0.5) cached=-1.77 | C7=FORMULA(ROUND(Beneficios!$D$11,2)+B7+Beneficios!$D$12) cached=6.99 | D7=FORMULA(((ROUND(Beneficios!$D$11,2)+B7)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=4.4158449304175 | E7=FORMULA(((ROUND(Beneficios!$D$11,2)+B7)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=15.6180600530614"
+    },
+    {
+      "locator": "sheet:9/row:8",
+      "text": "A8=First-time fix llega a 78% (no 82%) | B8=FORMULA(-Beneficios!$D$6*(0.82-0.78)/(Supuestos!$B$32-Supuestos!$B$31)) cached=-2.10285714285714 | C8=FORMULA(ROUND(Beneficios!$D$11,2)+B8+Beneficios!$D$12) cached=6.65714285714286 | D8=FORMULA(((ROUND(Beneficios!$D$11,2)+B8)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=3.93740414654928 | E8=FORMULA(((ROUND(Beneficios!$D$11,2)+B8)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=14.5981768401639"
+    },
+    {
+      "locator": "sheet:9/row:9",
+      "text": "A9=Visitas fallidas bajan a 6% (no 5%) | B9=FORMULA(-Beneficios!$D$5*(0.06-Supuestos!$B$30)/(Supuestos!$B$29-Supuestos!$B$30)) cached=-0.570666666666666 | C9=FORMULA(ROUND(Beneficios!$D$11,2)+B9+Beneficios!$D$12) cached=8.18933333333333 | D9=FORMULA(((ROUND(Beneficios!$D$11,2)+B9)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=6.13973757455269 | E9=FORMULA(((ROUND(Beneficios!$D$11,2)+B9)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=19.2928495523513"
+    },
+    {
+      "locator": "sheet:9/row:10",
+      "text": "A10=Costo por visita USD 28 (no 32) | B10=FORMULA(-(Supuestos!$B$14-28)*Beneficios!$C$11/10^6) cached=-1.25 | C10=FORMULA(ROUND(Beneficios!$D$11,2)+B10+Beneficios!$D$12) cached=7.51 | D10=FORMULA(((ROUND(Beneficios!$D$11,2)+B10)/ROUND(Beneficios!$D$11,2))*SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+SUM('Proyección 5 años'!$B$24:$I$24)) cached=5.16328031809145 | E10=FORMULA(((ROUND(Beneficios!$D$11,2)+B10)/ROUND(Beneficios!$D$11,2))*SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=17.2113539993905"
+    },
+    {
+      "locator": "sheet:9/row:11",
+      "text": "A11=WACC 20% | B11=FORMULA(0) cached=0 | C11=FORMULA(Beneficios!$D$13) cached=8.764 | D11=FORMULA('Proyección 5 años'!$B$40) cached=6.96 | E11=FORMULA(SUMPRODUCT('Proyección 5 años'!$B$25:$U$25,'Proyección 5 años'!$B$28:$U$28)) cached=18.9688879114548"
+    },
+    {
+      "locator": "sheet:9/row:12",
+      "text": "A12=Inversión y reinversión +30% | B12=FORMULA(0) cached=0 | C12=FORMULA(Beneficios!$D$13) cached=8.764 | D12=FORMULA(SUM('Proyección 5 años'!$B$22:$I$22)+SUM('Proyección 5 años'!$B$23:$I$23)+1.3*SUM('Proyección 5 años'!$B$24:$I$24)) cached=5.34 | E12=FORMULA(SUMPRODUCT('Proyección 5 años'!$B$22:$U$22,'Proyección 5 años'!$B$27:$U$27)+SUMPRODUCT('Proyección 5 años'!$B$23:$U$23,'Proyección 5 años'!$B$27:$U$27)+1.3*SUMPRODUCT('Proyección 5 años'!$B$24:$U$24,'Proyección 5 años'!$B$27:$U$27)) cached=19.3934514740363"
+    },
+    {
+      "locator": "sheet:9/row:14",
+      "text": "A14=Las dos variables que mueven el caso son el first-time fix y el triage: por eso el gate de Q2 mide triage y adopción, y el gate de Q3, first-time fix."
+    },
+    {
+      "locator": "sheet:10/row:1",
+      "text": "A1=Métrica norte, KPIs y guardas: línea base vs. meta a régimen"
+    },
+    {
+      "locator": "sheet:10/row:3",
+      "text": "A3=Indicador | B3=Línea base | C3=Meta a régimen | D3=Cómo se mide"
+    },
+    {
+      "locator": "sheet:10/row:4",
+      "text": "A4=MÉTRICA NORTE: costo de campo por orden resuelta (USD) | B4=FORMULA('Línea base'!$B$26) cached=47.2793629727936 | C4=FORMULA(Beneficios!$D$18) cached=40.3118779031188 | D4=Costo de campo + opex IA / órdenes resueltas"
+    },
+    {
+      "locator": "sheet:10/row:5",
+      "text": "A5=Visitas cada 100 órdenes resueltas | B5=FORMULA('Línea base'!$B$11) cached=147.976111479761 | C5=FORMULA('Flujo y ROI'!J10) cached=122.055408095554 | D5=FSM"
+    },
+    {
+      "locator": "sheet:10/row:6",
+      "text": "A6=Órdenes resueltas sin visita (contención del triage) | B6=0 | C6=FORMULA(Supuestos!$B$28) cached=0.1 | D6=Tratados vs. grupo de control"
+    },
+    {
+      "locator": "sheet:10/row:7",
+      "text": "A7=First-time fix en reparaciones | B7=FORMULA(Supuestos!$B$31) cached=0.75 | C7=FORMULA(Supuestos!$B$32) cached=0.82 | D7=Sin revisita a 30 días"
+    },
+    {
+      "locator": "sheet:10/row:8",
+      "text": "A8=Visitas fallidas | B8=FORMULA(Supuestos!$B$29) cached=0.08 | C8=FORMULA(Supuestos!$B$30) cached=0.05 | D8=FSM"
+    },
+    {
+      "locator": "sheet:10/row:9",
+      "text": "A9=Factura de terceros (USD M/año) | B9=FORMULA('Línea base'!$B$10) cached=34.24 | C9=FORMULA('Flujo y ROI'!J14*4) cached=24.24 | D9=Facturas de contratistas"
+    },
+    {
+      "locator": "sheet:10/row:10",
+      "text": "A10=Técnicos de terceros equivalentes | B10=FORMULA(Supuestos!$B$8) cached=600 | C10=FORMULA('Flujo y ROI'!J8) cached=424.929971988796 | D10=Visitas de terceros / (7 × 255)"
+    },
+    {
+      "locator": "sheet:10/row:11",
+      "text": "A11=Técnicos propios (sin despidos) | B11=FORMULA(Supuestos!$B$7) cached=400 | C11=FORMULA(Supuestos!$B$7) cached=400 | D11=Ocupación: 7 visitas por día"
+    },
+    {
+      "locator": "sheet:10/row:12",
+      "text": "A12=RPU neto de campo (USD/abonado/mes) | B12=FORMULA('Línea base'!$B$29) cached=18.9635416666667 | C12=FORMULA(Beneficios!$D$20) cached=19.42 | D12=ARPU − costo de campo − bonificaciones"
+    },
+    {
+      "locator": "sheet:10/row:13",
+      "text": "A13=Tiempo administrativo por técnico (min/día) | B13=60 | C13=35 | D13=Guarda; no se cuenta como beneficio"
+    },
+    {
+      "locator": "sheet:10/row:15",
+      "text": "A15=Gate de Q2: libera el tramo 2 solo si se cumplen las cinco condiciones (contra grupo de control)"
+    },
+    {
+      "locator": "sheet:10/row:16",
+      "text": "A16=1. Volumen: el triage resuelve sin visita ≥ 20% de los reclamos que atiende."
+    },
+    {
+      "locator": "sheet:10/row:17",
+      "text": "A17=2. Calidad: re-reclamo a 7 días de los casos resueltos a distancia ≤ 1,1 × el de los casos con visita del control."
+    },
+    {
+      "locator": "sheet:10/row:18",
+      "text": "A18=3. Experiencia: NPS post-triage ≥ 90% del NPS post-visita del grupo de control."
+    },
+    {
+      "locator": "sheet:10/row:19",
+      "text": "A19=4. Adopción: uso del copiloto ≥ 60% de las órdenes elegibles en la zona piloto."
+    },
+    {
+      "locator": "sheet:10/row:20",
+      "text": "A20=5. Costo: tramo 1 sin sobrecosto mayor al 20%; cero incidentes de privacidad graves."
+    }
+  ]
+}

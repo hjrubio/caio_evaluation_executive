@@ -1,0 +1,5 @@
+{
+  "documents": [
+    {"source_id":"DOC-001","sha256":"<SHA256>","text_review_complete":false,"visual_review_complete":false,"tables_checked":false,"calculations_checked":false,"coverage":"PENDIENTE","evidence_refs":[],"findings":[],"limitations":[],"reviewed_by":"Evidence Auditor"}
+  ]
+}

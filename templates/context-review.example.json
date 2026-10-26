@@ -1,0 +1,17 @@
+{
+  "documents": [
+    {
+      "document_id": "CTX-001",
+      "path": "contexto/archivo.pdf",
+      "sha256": "<sha256 real>",
+      "read_complete": false,
+      "summary": "",
+      "key_requirements": [],
+      "constraints": [],
+      "assumptions": [],
+      "conflicts": [],
+      "evidence_refs": [],
+      "used_by_roles": []
+    }
+  ]
+}

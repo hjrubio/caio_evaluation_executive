@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "required_sources": [
+    {
+      "id": "CTX-LIB-001",
+      "type": "chatgpt_library_share",
+      "url": "https://chatgpt.com/library/share/6adfbb87c9488191b5635f1f67e5ce5c?account_id=personal",
+      "required": true,
+      "status": "AVAILABLE",
+      "local_path": "contexto/context_manifest.json",
+      "note": "El enlace NO fue consultado por el agente. Se usa la exportación local (inputs/final_project/contexto/) cuyo manifiesto declara esta URL; los SHA256 de los 7 archivos coinciden con el manifiesto (verificado el 2026-10-26). La equivalencia con el contenido actual de la biblioteca no está verificada."
+    },
+    {"id": "CTX-001", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/caio-final-project-brief.md", "sha256": "a5f6136e9f740e604c301974762c077c475c3319b31731b1af1eb3095d3de859"},
+    {"id": "CTX-002", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/caio-source-01-ibm.md", "sha256": "1eccb2fcebe974620084de73c14ea04bb7e3a496fa2a61f8e2d685f8acc0ed83"},
+    {"id": "CTX-003", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/caio-source-02-wikipedia.md", "sha256": "c63d0ffc83cc82a69c82bbfb0c7b6b950c6387f9f3571b2c5a25153191e3f63e"},
+    {"id": "CTX-004", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/caio-source-03-cio-evolution.md", "sha256": "b852519ac6b95fada2fc444dc4584b55f70d7305e60befce1ff9f844c7918043"},
+    {"id": "CTX-005", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/caio-synthesis-and-evaluation-lens.md", "sha256": "94c74a8e61e3ab52e21f45e258ac1b811d1fb1e3faee7e23c2acf9ac71353a88"},
+    {"id": "CTX-006", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/guia_entregable.md", "sha256": "d209306d47404edbf99ac7b7228c81a32f8b817c0570de94935520c560c0fa60"},
+    {"id": "CTX-007", "type": "local_export", "required": true, "status": "VERIFIED", "local_path": "contexto/instrucciones_proyecto_claude.md", "sha256": "7d9185308c4d62e3a0ef56413ed2a7d0a0ffd1b7e992b01091dc5843beeb124a"}
+  ],
+  "documents": []
+}

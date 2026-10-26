@@ -1,0 +1,11 @@
+.env
+scripts/.env
+config.local.json
+attachments/*
+!attachments/.gitkeep
+report_output/*
+!report_output/.gitkeep
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc

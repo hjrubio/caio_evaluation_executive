@@ -1,0 +1,19 @@
+{
+  "source": {
+    "id": "DOC-003",
+    "path": "contexto/caio-source-02-wikipedia.md",
+    "format": ".md",
+    "sha256": "c63d0ffc83cc82a69c82bbfb0c7b6b950c6387f9f3571b2c5a25153191e3f63e",
+    "size_bytes": 2442,
+    "status": "EXTRACTED_TEXT",
+    "requires_visual_review": false,
+    "units_count": 1,
+    "warnings": []
+  },
+  "units": [
+    {
+      "locator": "line:1",
+      "text": "# Source 02 — Wikipedia: \"Chief AI officer\"\n\n- **URL:** https://en.wikipedia.org/wiki/Chief_AI_officer\n- **Publisher:** Wikipedia (community-edited)\n- **Status at time of reading (Oct 2026):** Short stub; flagged since May 2026 as missing information on skills and role.\n- **Underlying references:**\n  1. IBM Think, \"What is a chief AI officer (CAIO)?\" (29 May 2024) — see Source 01\n  2. IESE Standout, \"The role of the Chief AI Officer (CAIO): a guide to leading the transformation toward artificial intelligence\"\n  3. Nathan Eddy, Dice, \"The Chief AI Officer: What Is It and Who Needs One?\" (9 May 2025)\n- **Reliability note:** Largely derivative of IBM; adds a business-school (IESE) and a practitioner (Dice / SailPoint) angle. Useful as a neutral, consensus definition, not as a deep source.\n\n---\n\n## Definition (consensus view)\nThe CAIO (chief artificial intelligence officer) is an executive who handles the implementation and/or development of AI within an organization. The essence of the role is **bridging business and AI** to achieve a desired outcome (IESE framing).\n\n## Where the CAIO applies AI\n- **Operational strategy** and **product differentiation**, working alongside other executives (Dice).\n- New AI policies must align with digital transformation and business goals to improve operational efficiency, customer experience, or create new revenue (IBM).\n\n## Practitioner perspective\n- **Joe Mayberry (Head of AI, SailPoint), via Dice:** the CAIO makes corporate strategy succeed by **adapting the strategy itself** to reflect the company's market — i.e., AI reshapes strategy rather than just executing it.\n\n## Expected competencies\n- Fluency in AI technologies and practical understanding of how to work with AI.\n- Technical skills: machine learning, data science and analytics, software development, AI infrastructure.\n- Classic executive skills: management, **cultural leadership**, and an **ethical mindset**.\n\n## Key takeaways for this project\n- Confirms the **business–AI bridge** as the defining idea of the role.\n- Adds **cultural leadership** (change management) as an explicit expectation — a criterion often missing from purely technical projects.\n- Adds the notion that AI should **reshape strategy**, not only optimize existing processes: a useful test for whether a final project is transformational or merely incremental.\n- Low depth: anything beyond this should be grounded in Sources 01 and 03.\n"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source_library": "https://chatgpt.com/library/share/6adfbb87c9488191b5635f1f67e5ce5c?account_id=personal",
+  "required_files": [
+    "caio-final-project-brief.md",
+    "caio-source-01-ibm.md",
+    "caio-source-02-wikipedia.md",
+    "caio-source-03-cio-evolution.md",
+    "caio-synthesis-and-evaluation-lens.md",
+    "guia_entregable.md",
+    "instrucciones_proyecto_claude.md"
+  ],
+  "precedence": [
+    "caio-final-project-brief.md",
+    "guia_entregable.md",
+    "instrucciones_proyecto_claude.md",
+    "caio-synthesis-and-evaluation-lens.md",
+    "caio-source-01-ibm.md",
+    "caio-source-02-wikipedia.md",
+    "caio-source-03-cio-evolution.md"
+  ],
+  "note": "Documentos congelados al generar este paquete. Comparar con la biblioteca para detectar modificaciones posteriores.",
+  "sha256": {
+    "caio-final-project-brief.md": "a5f6136e9f740e604c301974762c077c475c3319b31731b1af1eb3095d3de859",
+    "caio-source-01-ibm.md": "1eccb2fcebe974620084de73c14ea04bb7e3a496fa2a61f8e2d685f8acc0ed83",
+    "caio-source-02-wikipedia.md": "c63d0ffc83cc82a69c82bbfb0c7b6b950c6387f9f3571b2c5a25153191e3f63e",
+    "caio-source-03-cio-evolution.md": "b852519ac6b95fada2fc444dc4584b55f70d7305e60befce1ff9f844c7918043",
+    "caio-synthesis-and-evaluation-lens.md": "94c74a8e61e3ab52e21f45e258ac1b811d1fb1e3faee7e23c2acf9ac71353a88",
+    "guia_entregable.md": "d209306d47404edbf99ac7b7228c81a32f8b817c0570de94935520c560c0fa60",
+    "instrucciones_proyecto_claude.md": "7d9185308c4d62e3a0ef56413ed2a7d0a0ffd1b7e992b01091dc5843beeb124a"
+  }
+}
